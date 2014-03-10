@@ -1,0 +1,68 @@
+#message {
+	margin-top: 1.8em;
+	border: solid black 1px;
+	display: inline-block;
+	border-radius: 10px;
+	border-color: #2E9AB8;
+	padding: 2em;
+	text-align: center;
+	font-family: "Open Sans", sans-serif;
+	font-size: 1.5em;
+	cursor: default;
+}
+
+#continue {
+	border: none;
+	background: none;
+	padding: 0.0em 0.4em;
+	font-size: 3em;
+	font-family: "Open Sans", sans-serif;
+	text-decoration: none;
+	vertical-align: middle;
+	display: inline-block;
+	cursor:pointer;
+	background: #19B2D4;
+	border-radius: 0.3em;
+	color: white;
+}
+
+#continue:hover {
+   border-top-color: #454545;
+   background: #454545;
+   color: #ccc;
+   border-radius: 0.3em;
+}
+
+#continue:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   border-radius: 0.3em;
+}
+
+#back {
+	border: none;
+	background: none;
+	padding: 0.0em 0.4em;
+	font-size: 2em;
+	font-family: "Open Sans", sans-serif;
+	text-decoration: none;
+	vertical-align: middle;
+	display: inline-block;
+	cursor:pointer;
+	background: #1698B5;
+	border-radius: 0.3em;
+	color: white;
+}
+
+#back:hover {
+   border-top-color: #454545;
+   background: #454545;
+   color: #ccc;
+   border-radius: 0.3em;
+}
+
+#back:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   border-radius: 0.3em;
+}
