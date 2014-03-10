@@ -1,7 +1,7 @@
 <?php
 	$pageName = "HOME";
 	$title = "Software Engineering Student";
-	$scriptsAndCSSPath = "/homepage";
+	$scriptsAndCSSPath = "/kevinpan";
 	require( $_SERVER['DOCUMENT_ROOT'] . $scriptsAndCSSPath . "/includes/header.php" );
 ?>
 

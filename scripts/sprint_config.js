@@ -1,13 +1,13 @@
 Sprint.addPage('HOME',
-	{ pageUrl : '/homepage/',
+	{ pageUrl : '/kevinpan/',
 		pageHandler : homePageHandler });
 
 Sprint.addPage('RESUME',
-	{ pageUrl : '/homepage/resume',
+	{ pageUrl : '/kevinpan/resume',
 		pageHandler : resumePageHandler });
 
 Sprint.addPage('PROJECTS',
-	{ pageUrl : '/homepage/projects',
+	{ pageUrl : '/kevinpan/projects',
 		pageHandler : projectsPageHandler });
 
 Sprint.addTransition('typetwo', 2);
