@@ -109,21 +109,7 @@ body {
 .project-block {
 	background-color: #F4F4F4;
 	padding: 1em;
-}
-
-.project-block-top {
-	margin-top: 0em;
 	margin-bottom: 2em;
-}
-
-.project-block-middle {
-	margin-top: 2em;
-	margin-bottom: 2em;
-}
-
-.project-block-bottom {
-	margin-top: 2em;
-	margin-bottom: 0em;
 }
 
 .project-heading {
@@ -131,21 +117,61 @@ body {
 	cursor: default;
 }
 
-.proj-desc {
-	clear: both;
+.proj-desc, .proj-hidden {
 	padding-top: 1.5em;
+	color: #3B3B3B;
+}
+
+.proj-hidden {
+	display: none;
+}
+
+.proj-img {
+	text-align: center;
+}
+
+.project-inner-heading {
+	float: left;
+}
+
+.project-tech {
+	float: right;
+	text-decoration: italic;
+	color: #555;
+}
+
+.ellipsis-button-parent {
+	text-align: center;
+}
+
+.ellipsis-button {
+	margin-top: 14px;
+	color: #eee;
+	border: none;
+	background: #777;
+	border-radius: 0.3em;
+	line-height: 10px;
+	padding: 0 16px 12px 16px;
+	font-size: 24px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.ellipsis-button:hover {
+	background: #555;
+}
+
+.ellipsis-button:active {
+	outline: 0;
+	background: #454545;
+}
+
+.ellipsis-button:focus {
+	outline: 0;
 }
 
 .clear {
 	clear: both;
-}
-
-#proj-inner-heading {
-	float: left;
-}
-
-#project-date {
-	float: right;
 }
 
 #project-body {
@@ -153,19 +179,15 @@ body {
 	padding-bottom: 12em;
 	width: inherit;
 	cursor: default;
-}
-
-.proj-image-style-one {
-	float: right;
-	margin-left: 3em;
+	font-size: 15px;
 }
 
 #screenshot1 {
-	width: 20em;
+	width: 24em;
 }
 
 #screenshot2 {
-	height: 16em;
+	height: 20em;
 }
 
 .try-it-out {

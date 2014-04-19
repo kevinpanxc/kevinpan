@@ -39,6 +39,8 @@ function projectsPageHandler () {
 	initLightbox();
 
 	setUpNavigateButtons("projects");
+
+	displayEllipsisButtons();
 }
 
 function setUpNavigateButtons (pageName) {
@@ -83,4 +85,26 @@ function setUpNavigateButtons (pageName) {
 			return false;
 		}	
 	}
+}
+
+function displayEllipsisButtons() {
+	var hasHiddenElement = function (project_block) {
+		return project_block.find(".proj-hidden").size() > 0;
+	}
+
+	$(".project-block").each(function(){
+		var project_block = $(this);
+		var parent = document.createElement("div");
+		var button = document.createElement("button");
+		parent.className = "ellipsis-button-parent";
+		button.className = "ellipsis-button";
+		button.innerHTML = "...";
+		parent.appendChild(button);
+		button.onclick = function () {
+			project_block.find(".proj-hidden").toggle();
+		}
+		if (hasHiddenElement(project_block)) {
+			project_block.append(parent);
+		}
+	});
 }
