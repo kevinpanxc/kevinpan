@@ -10,8 +10,32 @@
 	<div id ="project-body">
 		<div class="project-block">
 			<div class="project-heading">
+				<strong class="project-inner-heading"> Flappy Birds </strong> <i class="project-tech">Node.js with Express and Socket.IO</i>
+				<a href="https://github.com/kevinpanxc/flappy-birds" class="try-it-out">GitHub</a>
+				<a href="https://flappy-bird-s.herokuapp.com" class="try-it-out">Visit</a>
+			</div>
+
+			<div class="proj-desc">
+				An experimental online multiplayer Flappy Bird game built on node.js with Express and Socket.IO
+			</div>
+
+			<div class="proj-hidden proj-img">
+				<a href="<?php echo $scriptsAndCSSPath ?>/images/Projects/flappyBirds/flappyBirds_1.png" rel="lightbox" id="flappyBirds">
+					<img src = "<?php echo $scriptsAndCSSPath ?>/images/Projects/flappyBirds/flappyBirds_1.png" id="screenshot1" /> 
+				</a>
+			</div>
+
+			<div class="proj-hidden">
+				Currently, Flappy Birds is really just a backend component built on top of <a href="http://nebezb.com/" class="unobtrusive-link">Nebez Briefkani's</a> JS/CSS/HTML recreation of <a href="http://www.dotgears.com/" class="unobtrusive-link">Dong Nguyen's</a> massively popular Flappy Bird game. Using Briefkani's frontend code was both a blessing and a curse. It allowed me to quickly start developing the game's backend (which was what I was interested in). However, this forced the majority of the game logic to reside on the clientside. In addition, since this client was written specifically for a singleplayer game, it was extremely difficult to adapt the client for a multiplayer experience without rewriting a significant portion of the code or resorting to using ugly hacks.</br></br>
+
+				Moving forward, I plan to rewrite the client and have (ideally) all the game logic reside on the serverside.
+			</div>
+		</div>
+
+		<div class="project-block">
+			<div class="project-heading">
 				<strong class="project-inner-heading"> SVBLET </strong> <i class="project-tech">Ruby on Rails</i>
-				<a href="https://github.com/kevinpanxc/twitchquotes" class="try-it-out">GitHub</a>
+				<a href="https://github.com/svblet/svblet" class="try-it-out">GitHub</a>
 			</div>
 
 			<div class="proj-desc">
