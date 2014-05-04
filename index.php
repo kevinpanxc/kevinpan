@@ -16,7 +16,7 @@
 		<div id="name">Kevin Pan</div>
 		<img id="blue-line" src="<?php echo $scriptsAndCSSPath ?>/images/blueLine.png">
 		<div id='home-nav-wrapper'>
-			<a type='button' class='button' id='resume-button'>resume</a>
+			<a type='button' class='button' id='about-button'>about me</a>
 			<a type='button' class='button' id='projects-button'>projects</a>
 			<a type='button' class='button' id='blog-button' href='<?php echo $scriptsAndCSSPath ?>/KJNKBlog/blog/'>blog</a>
 		</div>

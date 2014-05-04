@@ -2,18 +2,22 @@ Sprint.addPage('HOME',
 	{ pageUrl : '/kevinpan/',
 		pageHandler : homePageHandler });
 
-Sprint.addPage('RESUME',
-	{ pageUrl : '/kevinpan/resume',
-		pageHandler : resumePageHandler });
+Sprint.addPage('ABOUT',
+	{ pageUrl : '/kevinpan/about',
+		pageHandler : aboutPageHandler });
 
 Sprint.addPage('PROJECTS',
 	{ pageUrl : '/kevinpan/projects',
 		pageHandler : projectsPageHandler });
 
+Sprint.addPage('RESUME',
+	{ pageUrl : '/kevinpan/resume',
+		pageHandler : resumePageHandler });
+
 Sprint.addTransition('typetwo', 2);
 
 function homePageHandler () {
-	setUpNavigateButtons("home");
+	setUpNavigationButtons("home");
 
 	$("#name").mouseover(function(){
 		$("#simple-description").fadeTo("fast", 1.0);
@@ -28,8 +32,10 @@ function homePageHandler () {
 	});
 }
 
-function resumePageHandler () {
-	setUpNavigateButtons("resume");
+function resumePageHandler () {}
+
+function aboutPageHandler () {
+	setUpNavigationButtons("about");
 }
 
 function projectsPageHandler () {
@@ -38,24 +44,24 @@ function projectsPageHandler () {
 
 	initLightbox();
 
-	setUpNavigateButtons("projects");
+	setUpNavigationButtons("projects");
 
 	displayEllipsisButtons();
 }
 
-function setUpNavigateButtons (pageName) {
+function setUpNavigationButtons (pageName) {
 	var homeButton = document.getElementById("home-button");
 	var projectsButton = document.getElementById("projects-button");
-	var resumeButton = document.getElementById("resume-button");
+	var about = document.getElementById("about-button");
 
 	projectsButton.onclick = function () {};
-	resumeButton.onclick = function () {};
+	about.onclick = function () {};
 
 	if (pageName === "projects") {
 		projectsButton.className = "button-focus";
-		resumeButton.onclick = function () {
+		about.onclick = function () {
 			$(".button-focus").addClass("button").removeClass("button-focus");
-			Sprint.navigate('RESUME', 'typetwo', {backButtonPress : false});
+			Sprint.navigate('ABOUT', 'typetwo', {backButtonPress : false});
 			this.className = "button-focus";
 			return false;
 		}
@@ -63,21 +69,26 @@ function setUpNavigateButtons (pageName) {
 			Sprint.navigate('HOME', 'default', {backButtonPress : false});
 			return false;
 		}
-	} else if (pageName === "resume") {
-		resumeButton.className = "button-focus";
+	} else if (pageName === "about") {
+		about.className = "button-focus";
+		var resumeButton = document.getElementById("resume-button");
 		projectsButton.onclick = function () {
 			$(".button-focus").addClass("button").removeClass("button-focus");
 			Sprint.navigate('PROJECTS', 'typetwo', {backButtonPress : false});
 			this.className = "button-focus";
 			return false;
 		}
+		resumeButton.onclick = function () {
+			Sprint.navigate('RESUME', 'default', {backButtonPress : false});
+			return false;			
+		}
 		homeButton.onclick = function () {
 			Sprint.navigate('HOME', 'default', {backButtonPress : false});
 			return false;
 		}
 	} else if (pageName === "home") {
-		resumeButton.onclick = function () {
-			Sprint.navigate('RESUME', 'default', {backButtonPress : false});
+		about.onclick = function () {
+			Sprint.navigate('ABOUT', 'default', {backButtonPress : false});
 			return false;
 		}
 		projectsButton.onclick = function () {

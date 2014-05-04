@@ -232,6 +232,52 @@ body {
 
 /* Project _________________________________________________________________*/
 
+/* About _________________________________________________________________*/
+
+#about-body {
+    font-family: "Open Sans", sans-serif;
+    padding-bottom: 12em;
+    width: inherit;
+    cursor: default;
+    font-size: 15px;    
+}
+
+#about-paragraph {
+    margin-bottom: ;
+    font-size: 24px;
+    margin: 0 auto 64px auto;
+    width: 80%;
+    font-weight: 300;
+}
+
+#about-page-buttons-parent {
+    text-align: center;
+}
+
+#about-page-buttons-parent a {
+    text-decoration: none;
+    background: #2DBBF7;
+    border-radius: 0.3em;
+    color: white;
+    padding: 5px 18px;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+#about-page-buttons-parent a:hover {
+    background: #17AAE8;
+}
+
+#about-page-buttons-parent a:active {
+    background: #0F9DD9;
+}
+
+#about-page-buttons-parent a:first-child {
+    margin-right: 20px;
+}
+
+/* About _________________________________________________________________*/
+
 /* Resume _________________________________________________________________*/
 
 #res-container {
