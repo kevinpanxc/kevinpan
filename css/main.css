@@ -132,6 +132,7 @@ body {
 
 .project-inner-heading {
 	float: left;
+	font-weight: 600;
 }
 
 .project-tech {
@@ -233,121 +234,96 @@ body {
 
 /* Resume _________________________________________________________________*/
 
-#resume-wrapper {
-	width: 1024px;
-	height: 1620px;
-	margin: 0 auto;
-	padding: 36px 36px 60px 36px;
-	font-family: Tahoma, sans-serif;
-	padding-bottom: 280px;
-	padding-top: 80px;
+#res-container {
+    margin: 0 auto 150px auto;
+    width: 900px;
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-size: 16px;
 }
 
-#col1 {
-	vertical-align: top;
-	height: 1620px;
-	width: 248px;
-	text-align: left;
-	overflow: hidden;
-	display: inline-block;
+#res-header {
+    margin-bottom: 10px;
 }
 
-#resume-name {
-	margin-top: 22px;
-	margin-bottom: 22px;
-	font-size: 58px;
-	font-weight: bold;
+#res-header h1 {
+    font-weight: 700;
+    font-size: 60px;
+    color: #2a2a2a;
+    margin: 5px 18px 0 0;
+    display: inline-block;
 }
 
-#resume-description {
-	font-size: 24px;
-	color: grey;
-	font-weight: normal;
-	margin-left: 80px;
-	margin-bottom: 50px;
+#res-header span {
+    margin: 0 8px;
+    font-weight: 300;
 }
 
-#resume-pdf-link {
-	text-decoration: none;
-	border-bottom: 1px dashed;
-	color: black;
+#res-container a {
+    text-decoration: none;
+    color: #3a3a3a;
 }
 
-#resume-technical-skills {
-	margin-top: 80px;
+section {
+    margin-bottom: 15px;
+    background-color: #f8f8f8;
+    padding: 0 8px;
 }
 
-#resume-education {
-	margin-top: 80px;
+section h1 {
+    color: #9a9a9a;
+    margin: 0 0 15px 0;
+    border-bottom: 1px solid #dadada;
 }
 
-#resume-education ul {
-	list-style-type: none;
-	padding-left: 18px;
-	font-size: 15px;
+section h2 {
+    margin: 0 0 8px 0;
+    font-size: 18px;
+    color: #3a3a3a;
 }
 
-#resume-website {
-	margin-top: 48px;
+#technical-expertise ul {
+    list-style-type: none;
+    line-height: 24px;
+    padding: 0;
+    margin: 0;
 }
 
-#col1 h1 {
-	font-size: 24px;
-	color: grey;
-	font-weight: normal;
-	margin-top: 5px;
-	margin-bottom: 5px;
+#technical-expertise ul strong {
+    color: #4a4a4a;
+    margin-right: 5px;
 }
 
-#col1 h2 {
-	font-size: 18px;
-	font-weight: normal;
-	margin-top: 5px;
-	margin-bottom: 20px;
-	overflow: hidden;
+.info-box ul {
+    list-style-type: none;
+    line-height: 18px;
+    margin: 0;
 }
 
-#resume-vertical-line {
-	border-right: solid grey 1px;
-	width: 1px;
-	height: 1620px;
-	display: inline-block;
-	margin-left: 20px;
-	margin-right: 20px;
+.info-box ul li {
+    margin-bottom: 12px;
 }
 
-#col2 {
-	vertical-align: top;
-	height: 1620px;
-	width: 724px;
-	text-align: left;
-	overflow: hidden;
-	display: inline-block;
+.info-box {
+    margin-bottom: 12px;
 }
 
-#col2 h1 {
-	font-size: 24px;
-	color: grey;
-	font-weight: normal;
-	margin-top: 12px;
-	margin-bottom: 28px;
+.left-box {
+    float: left;
+    width: 40%;
 }
 
-#col2 h2 {
-	font-size: 16px;
-	font-weight: bold;
-	margin-top: 16px;
-	margin-bottom: 22px;
+.right-box {
+    float: right;
+    width: 60%;
 }
 
-#resume-personal-projects ul {
-	padding-left: 25px;
+.clear-both {
+    clear: both;
 }
 
-#col2 ul li {
-	font-size: 18px;
-	margin-top: 9px;
-	margin-bottom: 9px;
+.info-box-date {
+    font-style: italic;
 }
 
 /* Resume _________________________________________________________________*/

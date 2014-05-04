@@ -16,7 +16,7 @@
 			<script type="text/javascript" src="<?php echo $scriptsAndCSSPath ?>/scripts/sprint_config.js"></script>
 
 			<!-- Google Fonts -->
-			<link href="http://fonts.googleapis.com/css?family=Open+Sans|Lato" rel="stylesheet" type="text/css">
+			<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Lato" rel="stylesheet" type="text/css">
 
 			<!-- KJNKPhotoGalleryJS -->
 			<script type="text/javascript" src="<?php echo $scriptsAndCSSPath ?>/scripts/KJNKPhotoGalleryJS/lightboxCustom.js"></script>

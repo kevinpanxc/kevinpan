@@ -1,113 +1,187 @@
-<div id="resume-wrapper">
-	<div id='col2'>
-		<div id='resume-name' style='display:inline-block'>
-			Kevin Pan
-		</div><a href='ResumePrint.pdf' id='resume-pdf-link' style="font-size: 36px; margin-left: 20px">.PDF</a>
-			<div id='resume-description'>University of Waterloo Software Engineering Student</div>
-			<h1>Personal Projects</h1>
-					<ul id='resume-personal-projects'>
-						<h2>ElectricFieldVectors ( Web App )</h2>
-							<ul>
-								<li>Application models how point and line charges alter the electric field around them</li>
-								<li>The electric field is represented by a vector field that changes as the user moves the charge objects around</li>
-								<li>Application logic written entirely in <strong>JavaScript</strong></li>
-							</ul>								
-						<h2>FrankerZ ( Web App )</h2>
-							<ul>
-								<li>A digital pet game similar to Tamagotchi</li>
-								<li>Backend implemented with <strong>Node.js</strong> and <strong>PostgreSQL</strong></li>
-							</ul>
-						<h2>KJNK Blog ( Blogging Backend )</h2>
-							<ul>
-								<li>Blogging backend developed for my personal website</li>
-								<li>Implemented with <strong>PHP</strong> and <strong>MySQL</strong></li>
-							</ul>
-						<h2>LightboxAjaxPhotoGallery ( JavaScript Plugin )</h2>
-							<ul>
-								<li>JavaScript photo gallery created for my personal website</li>
-								<li><strong>Ajax</strong> implemented with <strong>JavaScript</strong> and <strong>PHP</strong></li>
-							</ul>
-						<h2>KJNK Docs ( A Simple Web Template System )</h2>
-							<ul>
-								<li>A collection of <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>PHP</strong>, and <strong>JSON</strong> files meant to help simplify the process of creating code documentation web pages</li>
-							</ul>
-						<h2>GradeTracker ( Android App )</h2>
-							<ul>
-								<li>Application keeps track of academic performance via grades</li>
-								<li>Developed with the <strong>Android SDK</strong> using the <strong>SQLite</strong> database</li>
-							</ul>
-					</ul>
-			<h1>Work Experience</h1>
-				<ul>
-					<h2>Web Developer, Canadian Medical Protective Association, May 1st - August 30th, 2013</h2>
-						<ul>
-							<li>
-								Good Practices Guide website
-								<ul>
-									<li>Customized external <strong>JavaScript</strong> libraries utilized by the website to meet web designers' requirements</li>
-									<li>Worked with <strong>Facelets</strong>, a Web template system developed specifically for Java Server Faces</li>
-									<li>Collaborated extensively with web designers on the team</li>
-								</ul>
-							</li>
-							<li>
-								Electronic File Management system
-								<ul>
-									<li>Wrote unit tests using the <strong>JUnit</strong> testing framework as part of a team initiative to improve test coverage</li>
-									<li>Wrote automated UI tests using the Selenium <strong>Java</strong> API</li>
-									<li>Worked in an agile and test driven development environment</li>
-									<li>Frequently pair-programmed with senior developers</li>
-								</ul>
-							</li>
-						</ul>
-				</ul>
-
-			<h1>Awards</h1>
-				<ul>
-					<li>
-						Dean's Honour List, University of Waterloo, June 2013
-					</li>
-					<li>
-						President's Scholarship of Distinction, University of Waterloo
-					</li>
-					<li>
-						Headmaster's Award for Academic Excellence, Holy Trinity School, 2011 and 2012
-					</li>
-				</ul>
-	</div>
-
-	<div id='resume-vertical-line'></div>
-
-	<div id='col1'>
-		<div id='resume-website'>
-			<h1>Website</h1>
-			<h2>kevinpan.ca</h2>
-		</div>
-		<div id='resume-contact'>
-			<h1>Contact</h1>
-			<h2>kevinpan@kevinpan.ca</h2>
-		</div>
-		<div id='resume-technical-skills'>
-			<h1>Languages</h1>
-			<h2>JavaScript, Java, C, C++, and PHP</h2>
-			<h1>Web Technologies</h1>
-			<h2>Node.js, Java Server Faces (MyFaces and Facelets), and Java Server Pages</h2>
-			<h1>Databases</h1>
-			<h2>MySQL, PostGreSQL, and SQLite</h2>
-			<h1>Version Control</h1>
-			<h2>Git and SVN</h2>
-			<h1>Environments</h1>
-			<h2>Proficient in the Linux command line. Comfortable in any text editor or IDE.</h2>
-		</div>
-		<div id='resume-education'>
-			<h1>Education</h1>
-			<h2>Candidate for Bachelor of Software Engineering </h2>
-			<ul>
-				<li> University of Waterloo, Waterloo, ON, September 2012 - present </li>
-			</ul>
-			<h2>Ontario Secondary School Diploma</h2>
-			<ul> 
-				<li> Holy Trinity School, Richmond Hill, ON, June 2012 </li>
-			</ul>					
-		</div>
-	</div>
+<div id="res-container">
+    <div id="res-header">
+        <h1>Kevin Pan</h1>
+        <a href="http://www.kevinpan.ca">kevinpan.ca</a> <span>|</span>
+        <a href="http://www.github.com/kevinpanxc">github.com/kevinpanxc</a> <span>|</span>
+        <a href="mailto:xpan@uwaterloo.ca">xpan@uwaterloo.ca</a>
+    </div>
+    <div id="res-body">
+        <section id="technical-expertise">
+            <h1>Technical Expertise</h1>
+            <ul>
+                <li><strong>Languages:</strong> Ruby, PHP, JavaScript, Java, C, C++, SQL</li>
+                <li><strong>Web Technologies:</strong> Ruby on Rails, Node.js, Apache, Java Server Faces, Java Server Pages</li>
+                <li><strong>Dev Environments:</strong> Comfortable in any text editor or IDE (experience with vim, Sublime, Eclipse, Visual Studio)</li>
+                <li><strong>Version Control:</strong> Git, SVN</li>
+            </ul>
+        </section>
+        <section>
+            <h1>Employment</h1>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Agile Software Developer, Pivotal Labs</h2>
+                    <div class="info-box-tech-summary">Ruby on Rails, Android, JavaScript, HTML5, Git</div>
+                    <div class="info-box-date">January - April, 2014</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Developed extensively with <strong>Ruby on Rails</strong> in many company projects; developed APIs and content management systems</li>
+                        <li>Developed with <strong>Android</strong> in several company research and development projects</li>
+                        <li>Worked in an agile software development environment with frequent pair programming</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Web Developer, Canadian Medical Protective Association</h2>
+                    <div class="info-box-tech-summary">Java Server Pages, Java Server Faces, Selenium with JUnit, SVN</div>
+                    <div class="info-box-date">May - August, 2013</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Developed features and bug fixes for a company project built on <strong>Java Server Faces</strong> with <strong>Facelets</strong></li>
+                        <li>Developed extensively with <strong>JavaScript</strong> on a project to improve one of the company's websites</li>
+                        <li>Test driven development using <strong>Selenium</strong> and <strong>JUnit</strong></li>
+                        <li>Worked in an agile software development environment and frequently pair-programmed with senior developers</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+        </section>
+        <section>
+            <h1>Personal Projects</h1>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Flappy Birds</h2>
+                    <div class="info-box-tech-summary">Node.js with Express and Socket.IO</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>An experimental online multiplayer Flappy Bird game</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>SVBLET</h2>
+                    <div class="info-box-tech-summary">Ruby on Rails</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>A website that helps to ease and expediate the process of finding a rental home</li>
+                        <li>Users can sign up and post homes up for rent or browse our directory to find their future home</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>TwitchQuotes</h2>
+                    <div class="info-box-tech-summary">Ruby on Rails</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Website that showcases funny/silly quotes from Twitch (video streaming service) chat</li>
+                        <li>Users can post quotes or sign in with their Facebook account to upvote/downvote quotes</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>SprintJS</h2>
+                    <div class="info-box-tech-summary">JavaScript</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>JavaScript module that helps to build ajax-navigation-based websites</li>
+                        <li>Similar to Turbolinks and pjax</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>KJNKBlog</h2>
+                    <div class="info-box-tech-summary">PHP, MySQL, JavaScript</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Blogging system built with PHP and MySQL</li>
+                        <li>Frontend uses ajax navigation that maintains browser history (built with SprintJS)</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>2D Electric Field Simulator</h2>
+                    <div class="info-box-tech-summary">JavaScript with the HTML5 Canvas</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Web application that models how point charges and line charges alter the electric field around them</li>
+                        <li>Electric field is represented by a vector field that changes as the user moves the charges around</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>GradeTrackr</h2>
+                    <div class="info-box-tech-summary">Android Application</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Android application that keeps track of academic grades</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>PRESENT</h2>
+                    <div class="info-box-tech-summary">JavaScript</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>JavaScript photogallery plugin</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+        </section>
+        <section>
+            <h1>Education</h1>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Bachelor of Software Engineering Candidate</h2>
+                    <div>University of Waterloo, Waterloo ON</div>
+                    <div class="info-box-date">2012 - Present</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Dean's Honours List (Terms 1B, 2A)</li>
+                        <li>President's Scholarship of Distinction (June 2012)</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Ontario Secondary School Diploma</h2>
+                    <div>Holy Trinity School, Richmond Hill ON</div>
+                    <div class="info-box-date">2010 - 2012</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Headmaster's Award for Academic Excellence (2011 - 2012)</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+        </section>
+    </div>
 </div>
