@@ -164,6 +164,7 @@
                 <div class="right-box">
                     <ul>
                         <li>Dean's Honours List (Terms 1B, 2A)</li>
+                        <li>Class Academic Representative (Term 2B)</li>
                         <li>President's Scholarship of Distinction (June 2012)</li>
                     </ul>
                 </div>
