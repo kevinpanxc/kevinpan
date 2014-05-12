@@ -7,7 +7,7 @@
         </div>
     </div>
     <div id="about-body">
-        <div id="about-paragraph">Hi! My name is Kevin. I'm a 2nd year Software Engineering student at the University of Waterloo. I enjoy running, biking, a good laugh, building great software, and occasionally, odd numbers.</div>
+        <div id="about-paragraph">Hi! My name is Kevin. I'm a 2nd year Software Engineering student at the University of Waterloo. I enjoy running, biking, building great software, and occasionally, even numbers.</div>
         <div id="about-page-buttons-parent">
             <a id="resume-button">Resume</a>
             <a href="mailto:kevinpan@kevinpan.ca" id="contact-button">Contact</a>
