@@ -58,7 +58,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>An experimental online multiplayer Flappy Bird game</li>
+                        <li>Experimental online multiplayer Flappy Bird game</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>A website that helps to ease and expediate the process of finding a rental home</li>
+                        <li>Website that helps to ease and expediate the process of finding a rental home</li>
                         <li>Users can sign up and post homes up for rent or browse our directory to find their future home</li>
                     </ul>
                 </div>
@@ -136,18 +136,6 @@
                 <div class="right-box">
                     <ul>
                         <li>Android application that keeps track of academic grades</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>PRESENT</h2>
-                    <div class="info-box-tech-summary">JavaScript</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>JavaScript photogallery plugin</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
