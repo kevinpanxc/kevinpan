@@ -65,7 +65,7 @@
             </div>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>SVBLET</h2>
+                    <h2>SVBLET (collaborative project)</h2>
                     <div class="info-box-tech-summary">Ruby on Rails</div>
                 </div>
                 <div class="right-box">
@@ -130,7 +130,7 @@
             </div>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>GradeTrackr</h2>
+                    <h2>GradeTrackr (collaborative project)</h2>
                     <div class="info-box-tech-summary">Android Application</div>
                 </div>
                 <div class="right-box">
