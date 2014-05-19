@@ -12,7 +12,6 @@
                 <li><strong>Languages:</strong> Ruby, PHP, JavaScript, Java, C, C++, SQL</li>
                 <li><strong>Web Technologies:</strong> Ruby on Rails, Node.js, Apache, Java Server Faces, Java Server Pages</li>
                 <li><strong>Dev Environments:</strong> Comfortable in any text editor or IDE (experience with vim, Sublime, Eclipse, Visual Studio)</li>
-                <li><strong>Version Control:</strong> Git, SVN</li>
             </ul>
         </section>
         <section>
@@ -25,9 +24,9 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Developed extensively with <strong>Ruby on Rails</strong> in many company projects; developed APIs and content management systems</li>
-                        <li>Developed with <strong>Android</strong> in several company research and development projects</li>
-                        <li>Worked in an agile software development environment with frequent pair programming</li>
+                        <li>Developed extensively with Ruby on Rails in many company projects; built APIs and content management systems</li>
+                        <li>Worked with Android in several company research and development projects</li>
+                        <li>Collaborated in an agile software development environment with frequent pair programming</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -40,10 +39,9 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Developed features and bug fixes for a company project built on <strong>Java Server Faces</strong> with <strong>Facelets</strong></li>
-                        <li>Developed extensively with <strong>JavaScript</strong> on a project to improve one of the company's websites</li>
-                        <li>Test driven development using <strong>Selenium</strong> and <strong>JUnit</strong></li>
-                        <li>Worked in an agile software development environment and frequently pair-programmed with senior developers</li>
+                        <li>Wrote features and bug fixes for a company project built on Java Server Faces with Facelets</li>
+                        <li>Developed extensively with JavaScript on a project to improve one of the company's websites</li>
+                        <li>Test driven development using Selenium and JUnit</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -59,19 +57,6 @@
                 <div class="right-box">
                     <ul>
                         <li>Experimental online multiplayer Flappy Bird game</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>SVBLET (collaborative project)</h2>
-                    <div class="info-box-tech-summary">Ruby on Rails</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>Website that helps to ease and expediate the process of finding a rental home</li>
-                        <li>Users can sign up and post homes up for rent or browse our directory to find their future home</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -128,18 +113,6 @@
                 </div>
                 <div class="clear-both"></div>
             </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>GradeTrackr (collaborative project)</h2>
-                    <div class="info-box-tech-summary">Android Application</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>Android application that keeps track of academic grades</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
         </section>
         <section>
             <h1>Education</h1>
@@ -154,19 +127,6 @@
                         <li>Dean's Honours List (Terms 1B, 2A)</li>
                         <li>Class Academic Representative (Term 2B)</li>
                         <li>President's Scholarship of Distinction (June 2012)</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>Ontario Secondary School Diploma</h2>
-                    <div>Holy Trinity School, Richmond Hill ON</div>
-                    <div class="info-box-date">2010 - 2012</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>Headmaster's Award for Academic Excellence (2011 - 2012)</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
