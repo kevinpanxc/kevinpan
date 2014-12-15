@@ -18,7 +18,7 @@
 		<div id='home-nav-wrapper'>
 			<a type='button' class='button' id='about-button'>about me</a>
 			<a type='button' class='button' id='projects-button'>projects</a>
-			<a type='button' class='button' id='blog-button' href='<?php echo $scriptsAndCSSPath ?>/KJNKBlog/blog/'>blog</a>
+			<a type='button' class='button' id='blog-button' href='http://www.kevinpan.me'>blog</a>
 		</div>
 	</div>
 </div>

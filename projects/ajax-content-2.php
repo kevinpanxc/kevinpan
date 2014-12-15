@@ -10,8 +10,8 @@
 	<div id ="project-body">
 		<div class="project-block">
 			<div class="project-heading">
-				<strong class="project-inner-heading"> Flappy Birds </strong> <i class="project-tech">Node.js with Express and Socket.IO</i>
-				<a href="https://github.com/kevinpanxc/flappy-birds" class="try-it-out">GitHub</a>
+				<strong class="project-inner-heading"> Flappy Birds (old) </strong> <i class="project-tech">Node.js with Express and Socket.IO</i>
+				<a href="https://github.com/kevinpanxc/flappy-birds-old" class="try-it-out">GitHub</a>
 			</div>
 
 			<div class="proj-desc">
