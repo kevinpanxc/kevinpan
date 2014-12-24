@@ -56,7 +56,13 @@
 			</div>
 
 			<div class="proj-desc">
-				Website that showcases funny/silly quotes from the venerable Twitch chat. Users can post their own quotes or sign in with their Facebook account to upvote/downvote quotes.
+				Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels. Users can post their own quotes or sign in with their Facebook account to upvote/downvote quotes.</br>
+				<div style="text-align:right">
+					<div><strong>Pages/session:</strong> 5.41</div>
+					<div><strong>Average session duration:</strong> 03:52</div>
+					<div><strong>Bounce rate:</strong> 45.15%</div>
+					<div style="font-size:12px">last updated: 2014/12/24 </div>
+				</div>
 			</div>
 
 			<div class="proj-hidden proj-img">
