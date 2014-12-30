@@ -9,8 +9,8 @@
         <section id="technical-expertise">
             <h1>Technical Skills Summary</h1>
             <ul>
-                <li><strong>Languages:</strong> Ruby, PHP, JavaScript, Java, C, C++, SQL</li>
-                <li><strong>Web Technologies:</strong> Ruby on Rails, Node.js, Apache, Java Server Faces, Java Server Pages</li>
+                <li><strong>Languages:</strong> Python, Ruby, PHP, JavaScript, Java, C, C++, Objective C, SQL</li>
+                <li><strong>Web Technologies:</strong> Django, Ruby on Rails, Node.js, Apache, Java Server Faces, Java Server Pages</li>
                 <li><strong>Dev Environments:</strong> Comfortable in any text editor or IDE (experience with vim, Sublime Text, Eclipse, Visual Studio)</li>
             </ul>
         </section>
@@ -18,7 +18,21 @@
             <h1>Employment</h1>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>Agile Software Developer, Pivotal Labs</h2>
+                    <h2>A Thinking Ape<span class="job-title">, Software Engineer<span></h2>
+                    <div class="info-box-tech-summary">Django, iOS, Android MySQL</div>
+                    <div class="info-box-date">January - April, 2014</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Worked with Django, iOS, and Android building the backend and frontend of a mobile game</li>
+                        <li>Played an integral part in developing and shipping major features for the game</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Pivotal Labs<span class="job-title">, Agile Software Developer</span></h2>
                     <div class="info-box-tech-summary">Ruby on Rails, Android, JavaScript, HTML5, Git</div>
                     <div class="info-box-date">January - April, 2014</div>
                 </div>
@@ -33,7 +47,7 @@
             </div>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>Web Developer, Canadian Medical Protective Association</h2>
+                    <h2>Canadian Medical Protective Association<span class="job-title">, Web Developer</span></h2>
                     <div class="info-box-tech-summary">Java Server Pages, Java Server Faces, Selenium with JUnit, SVN</div>
                     <div class="info-box-date">May - August, 2013</div>
                 </div>
@@ -49,6 +63,57 @@
         </section>
         <section>
             <h1>Personal Projects</h1>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>TwitchQuotes</h2>
+                    <div class="info-box-tech-summary">Ruby on Rails</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels</li>
+                        <li>One of my largest and most successful projects to date</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Flappy Birds</h2>
+                    <div class="info-box-tech-summary">Node.js with Express and Socket.IO</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Online multiplayer Flappy Bird game. Uses client-side prediction and linear interpolation to accurately and smoothly display the positions of other players</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>HTML 5 Physics</h2>
+                    <div class="info-box-tech-summary">JavaScript with the HTML5 Canvas</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>2D electric field visualizer: visualizes how point charges and line charges alter the electric field around them</li>
+                        <li>Rubber band simulator</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Tether</h2>
+                    <div class="info-box-tech-summary">Node.js with Box2DJS, Express, and Socket.IO</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>A player plays as a spaceship that is tethered to her/his team member. They need to work together to swing asteroids to break the other team's tether.</li>
+                        <li>Built with a group as part of a hackathon</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
             <div class="info-box">
                 <div class="left-box">
                     <h2>SprintJS</h2>
@@ -71,44 +136,6 @@
                     <ul>
                         <li>Blogging system built with PHP and MySQL</li>
                         <li>Front-end uses Ajax navigation that maintains browser history</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>2D Electric Field Simulator</h2>
-                    <div class="info-box-tech-summary">JavaScript with the HTML5 Canvas</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>Web application that models how point charges and line charges alter the electric field around them</li>
-                        <li>Electric field is represented by a vector field that changes as the user moves the charges around</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>Flappy Birds</h2>
-                    <div class="info-box-tech-summary">Node.js with Express and Socket.IO</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>Experimental online multiplayer Flappy Bird game</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>TwitchQuotes</h2>
-                    <div class="info-box-tech-summary">Ruby on Rails</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>Website that showcases funny/silly quotes from Twitch (video streaming service) chat</li>
-                        <li>Users can post quotes or sign in with their Facebook account to upvote/downvote quotes</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>

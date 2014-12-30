@@ -328,6 +328,10 @@ section h2 {
     color: #3a3a3a;
 }
 
+.job-title {
+    font-weight:normal;
+}
+
 #technical-expertise ul {
     list-style-type: none;
     line-height: 24px;
