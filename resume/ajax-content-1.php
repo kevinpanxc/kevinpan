@@ -19,13 +19,14 @@
             <div class="info-box">
                 <div class="left-box">
                     <h2>A Thinking Ape<span class="job-title">, Software Engineer<span></h2>
-                    <div class="info-box-tech-summary">Django, iOS, Android MySQL</div>
-                    <div class="info-box-date">January - April, 2014</div>
+                    <div class="info-box-tech-summary">Django, iOS, Android, MySQL, OpenSSL</div>
+                    <div class="info-box-date">September - December, 2014</div>
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Worked with Django, iOS, and Android building the backend and frontend of a mobile game</li>
-                        <li>Played an integral part in developing and shipping major features for the game</li>
+                        <li>Played an integral part in developing the server and iOS code for the relationship feature for Party in My Dorm</li>
+                        <li>Developed an individual elo system for Kingdoms at War; also updated all clients for this feature (iOS, Android, Adobe Flex)</li>
+                        <li>Revamped how the iOS clients for Party in My Dorm and Kingdoms at War established HTTPS connections with the server</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
