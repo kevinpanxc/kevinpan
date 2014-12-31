@@ -19,7 +19,7 @@
             <div class="info-box">
                 <div class="left-box">
                     <h2>A Thinking Ape<span class="job-title">, Software Engineer<span></h2>
-                    <div class="info-box-tech-summary">Django, iOS, Android, MySQL, OpenSSL</div>
+                    <div class="info-box-tech-summary">Django, iOS, Android, MySQL</div>
                     <div class="info-box-date">September - December, 2014</div>
                 </div>
                 <div class="right-box">
