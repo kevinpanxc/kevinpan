@@ -72,6 +72,7 @@
                 <div class="right-box">
                     <ul>
                         <li>Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels</li>
+                        <li>Averages around 500 sessions/day with about 4.5 pages/session</li>
                         <li>One of my largest and most successful projects to date</li>
                     </ul>
                 </div>
@@ -153,7 +154,7 @@
                 <div class="right-box">
                     <ul>
                         <li>Dean's Honours List (Terms 1B and 2A)</li>
-                        <li>Class Academic Representative (Term 2B)</li>
+                        <li>Class Academic Representative (April 2014 - Present)</li>
                         <li>President's Scholarship of Distinction (June 2012)</li>
                     </ul>
                 </div>
