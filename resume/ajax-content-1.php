@@ -141,19 +141,6 @@
                 </div>
                 <div class="clear-both"></div>
             </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>KJNKBlog</h2>
-                    <div class="info-box-tech-summary">PHP, MySQL, JavaScript</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>Blogging system built with PHP and MySQL</li>
-                        <li>Front-end uses Ajax navigation that maintains browser history</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
         </section>
         <section>
             <h1>Education</h1>
