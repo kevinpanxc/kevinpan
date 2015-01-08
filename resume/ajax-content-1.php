@@ -80,6 +80,18 @@
             </div>
             <div class="info-box">
                 <div class="left-box">
+                    <h2>Mango Ice Cream</h2>
+                    <div class="info-box-tech-summary">Personal Blog</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>I actively seek out and explore math and computer science topics that interest me. Among many other things, this blog is a way for me to record down the things that I have learnt.</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
                     <h2>Flappy Birds</h2>
                     <div class="info-box-tech-summary">Node.js with Express and Socket.IO</div>
                 </div>
