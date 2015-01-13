@@ -10,8 +10,8 @@
             <h1>Technical Skills Summary</h1>
             <ul>
                 <li><strong>Languages:</strong> Python, Ruby, PHP, JavaScript, Java, C, C++, Objective C, SQL</li>
-                <li><strong>Web Technologies:</strong> Django, Ruby on Rails, Node.js, Apache, Java Server Faces, Java Server Pages</li>
-                <li><strong>Dev Environments:</strong> Comfortable in any text editor or IDE (experience with vim, Sublime Text, Eclipse, Visual Studio)</li>
+                <li><strong>Web Technologies:</strong> Django, Ruby on Rails, Node.js, Apache, Java Server Faces (JSF), Java Server Pages (JSP)</li>
+                <li><strong>Dev Tools:</strong> Sublime Text, vim, Android Studio, Eclipse, XCode, Visual Studio</li>
             </ul>
         </section>
         <section>
@@ -26,7 +26,7 @@
                     <ul>
                         <li>Played an integral part in developing the server and iOS code for the relationship feature for Party in My Dorm</li>
                         <li>Developed an individual Elo system for Kingdoms at War; also updated all clients for this feature (iOS, Android, Adobe Flex)</li>
-                        <li>Revamped how the iOS clients for Party in My Dorm and Kingdoms at War established HTTPS connections with the server</li>
+                        <li>Fixed a significant security issue found in the PimD/KaW iOS clients related to how HTTPS connections were established with the server</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -41,7 +41,6 @@
                     <ul>
                         <li>Developed extensively with Ruby on Rails in many company projects; built APIs and content management systems</li>
                         <li>Worked with Android in several company research and development projects</li>
-                        <li>Collaborated in an agile software development environment with frequent pair programming</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -49,7 +48,7 @@
             <div class="info-box">
                 <div class="left-box">
                     <h2>Canadian Medical Protective Association<span class="job-title">, Web Developer</span></h2>
-                    <div class="info-box-tech-summary">Java Server Pages, Java Server Faces, Selenium with JUnit, SVN</div>
+                    <div class="info-box-tech-summary">JSP, JSF, Selenium with JUnit, SVN</div>
                     <div class="info-box-date">May - August, 2013</div>
                 </div>
                 <div class="right-box">
@@ -66,14 +65,13 @@
             <h1>Personal Projects</h1>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>TwitchQuotes</h2>
+                    <h2>TwitchQuotes.com</h2>
                     <div class="info-box-tech-summary">Ruby on Rails</div>
                 </div>
                 <div class="right-box">
                     <ul>
                         <li>Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels</li>
                         <li>Averages around 500 sessions/day with about 4.5 pages/session</li>
-                        <li>One of my largest and most successful projects to date</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -81,11 +79,11 @@
             <div class="info-box">
                 <div class="left-box">
                     <h2>Mango Ice Cream</h2>
-                    <div class="info-box-tech-summary">Personal Blog</div>
+                    <div class="info-box-tech-summary">Personal Blog @ kevinpan.me</div>
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>I actively seek out and explore math and computer science topics that interest me. Among many other things, this blog is a way for me to record down the things that I have learnt.</li>
+                        <li>I actively seek out and learn math and computer science topics that interest me. I primarily use this blog to keep notes on what I've learnt</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -123,21 +121,13 @@
                 <div class="right-box">
                     <ul>
                         <li>A player plays as a spaceship that is tethered to her/his team member. They need to work together to swing asteroids to break the other team's tether.</li>
-                        <li>Built with a group as part of a hackathon</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
             </div>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>SprintJS</h2>
-                    <div class="info-box-tech-summary">JavaScript</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>JavaScript module that helps to build Ajax-navigation-based websites</li>
-                        <li>Similar to Turbolinks and pjax</li>
-                    </ul>
+                    <h2>More on my Github...</h2>
                 </div>
                 <div class="clear-both"></div>
             </div>
