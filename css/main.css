@@ -289,14 +289,14 @@ body {
 }
 
 #res-header {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 #res-header h1 {
     font-weight: 700;
     font-size: 60px;
     color: #2a2a2a;
-    margin: 5px 18px 0 0;
+    margin: 2px 18px 0 0;
     display: inline-block;
 }
 
@@ -311,15 +311,14 @@ body {
 }
 
 section {
-    margin-bottom: 15px;
-    background-color: #f8f8f8;
-    padding: 0 8px;
+    margin-bottom: 12px;
 }
 
 section h1 {
     color: #9a9a9a;
-    margin: 0 0 15px 0;
-    border-bottom: 1px solid #dadada;
+    margin: 0 0 8px 0;
+    padding: 0 8px;
+    background-color: #f8f8f8;
 }
 
 section h2 {
@@ -335,7 +334,7 @@ section h2 {
 #technical-expertise ul {
     list-style-type: none;
     line-height: 24px;
-    padding: 0;
+    padding: 0 8px;
     margin: 0;
 }
 
@@ -355,7 +354,12 @@ section h2 {
 }
 
 .info-box {
-    margin-bottom: 14px;
+    margin-bottom: 12px;
+    padding: 0 8px;
+}
+
+.info-box-last {
+    margin-bottom: 0px;
 }
 
 .left-box {
