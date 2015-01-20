@@ -24,7 +24,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Played an integral part in developing the server and iOS code for the relationship feature for Party in My Dorm</li>
+                        <li>Played an integral part in developing the relationship feature for Party in My Dorm on both the server and the iOS client</li>
                         <li>Developed an individual Elo system for Kingdoms at War; also updated all clients for this feature (iOS, Android, Adobe Flex)</li>
                         <li>Fixed a significant security issue found in the PimD/KaW iOS clients that made them vulnerable to man-in-the-middle attacks</li>
                     </ul>
