@@ -10,7 +10,7 @@
             <h1>Technical Skills Summary</h1>
             <ul>
                 <li><strong>Languages:</strong> Python, Ruby, JavaScript, Java, C, C++, Objective C, PHP, SQL</li>
-                <li><strong>Web Technologies:</strong> Django, Ruby on Rails, Node.js, Apache, Java Server Faces (JSF), Java Server Pages (JSP)</li>
+                <li><strong>Web Technologies:</strong> Django, Ruby on Rails, Node.js, Java Server Faces (JSF), Java Server Pages (JSP), Apache</li>
                 <li><strong>Dev Tools:</strong> Sublime Text, vim, Android Studio, Eclipse, XCode, Visual Studio</li>
             </ul>
         </section>
@@ -26,7 +26,7 @@
                     <ul>
                         <li>Played an integral part in developing the server and iOS code for the relationship feature for Party in My Dorm</li>
                         <li>Developed an individual Elo system for Kingdoms at War; also updated all clients for this feature (iOS, Android, Adobe Flex)</li>
-                        <li>Fixed a significant security issue found in the PimD/KaW iOS clients related to how HTTPS connections were established with the server</li>
+                        <li>Fixed a significant security issue found in the PimD/KaW iOS clients that made them vulnerable to man-in-the-middle attacks</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels</li>
+                        <li>Website that aggregates and showcases funny/silly quotes from Twitch.tv's IRC chat channels</li>
                         <li>Averages around 500 sessions/day with about 4.5 pages/session</li>
                     </ul>
                 </div>
