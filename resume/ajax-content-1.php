@@ -70,8 +70,8 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Website that aggregates and showcases funny/silly quotes from Twitch.tv's IRC chat channels</li>
-                        <li>Averages around 500 sessions/day with about 4.5 pages/session</li>
+                        <li>Website that aggregates and showcases funny quotes from Twitch.tv's IRC chat channels</li>
+                        <li>Over 65,000 monthly pageviews and more than 10,000 monthly unique users</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
