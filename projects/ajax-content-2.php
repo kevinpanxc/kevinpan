@@ -12,7 +12,6 @@
 			<div class="project-heading">
 				<strong class="project-inner-heading"> Flappy Birds </strong> <i class="project-tech">Node.js with Express and Socket.IO</i>
 				<a href="https://github.com/kevinpanxc/flappy-birds" class="try-it-out">GitHub</a>
-				<a href="https://flappy-bird-s.herokuapp.com" class="try-it-out">Try it Out!</a>
 			</div>
 
 			<div class="proj-desc">
@@ -42,13 +41,13 @@
 			</div>
 
 			<div class="proj-desc">
-				Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels. Users can sign up to vote on their favorite quotes. One of my largest and most successful projects to date.</br>
-				<div style="text-align:right">
+				Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels. Users can sign up to vote on their favorite quotes. One of my largest and most successful projects to date. More than <strong>12,000</strong> monthly unique users with over <strong>75,000</strong> monthly pageviews.</br>
+<!-- 				<div style="text-align:right">
 					<div><strong>Pages/session:</strong> 5.41</div>
 					<div><strong>Average session duration:</strong> 03:52</div>
 					<div><strong>Bounce rate:</strong> 45.15%</div>
 					<div style="font-size:12px">last updated: 2014/12/24 </div>
-				</div>
+				</div> -->
 			</div>
 
 			<div class="proj-hidden proj-img">
