@@ -36,6 +36,8 @@ Sprint = (function() {
 			publicParams:publicParams,
 			hiddenParams:hiddenParams}, '', getUrlPathAfterDomain());
 
+		_gaq.push(['_trackPageview']);
+
 		callPageHandlers(pageName);
 	});
 
@@ -147,7 +149,7 @@ Sprint = (function() {
 		userData = null;
 
 		if ( page ) {
-			request = $.ajax({
+			request = $.loadingbar({
 				url: page.pageUrl,
 				type: "get",
 				data: formatUrlParameters(options.publicParams, options.hiddenParams, transitionName)
@@ -169,6 +171,8 @@ Sprint = (function() {
 						publicParams:options.publicParams,
 						hiddenParams:options.hiddenParams }, '', pageUrl);
 				}
+
+				_gaq.push(['_trackPageview']);
 			});
 		} else {
 			throw new Error("ajaxNavigate() : page passed in is not a key in pageMappings");

@@ -11,6 +11,10 @@
 			<!-- jQuery -->
 			<script type="text/javascript" src="<?php echo $scriptsAndCSSPath ?>/scripts/jquery-1.11.0.min.js"></script>
 
+			<!-- LoadingBar.js by Pete R -->
+			<script type="text/javascript" src="<?php echo $scriptsAndCSSPath ?>/scripts/youtube_loading_bar/js/jquery.loadingbar.js"></script>
+			<link rel="stylesheet" href="<?php echo $scriptsAndCSSPath ?>/scripts/youtube_loading_bar/css/loadingbar.css" type="text/css"/>
+
 			<!-- SprintJS -->
 			<script type="text/javascript" src="<?php echo $scriptsAndCSSPath ?>/scripts/sprint.js"></script>
 			<script type="text/javascript" src="<?php echo $scriptsAndCSSPath ?>/scripts/sprint_config.js"></script>
@@ -28,6 +32,19 @@
 				kjnklb_setThumbnailMode(true);
 				kjnklb_setPathToImageFolder('<?php echo $scriptsAndCSSPath ?>/images/Projects/');
 				kjnklb_setPathToKJNKPhotoGalleryJS('<?php echo $scriptsAndCSSPath ?>/scripts/');
+			</script>
+
+			<script type="text/javascript">
+
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-37350827-1']);
+
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+
 			</script>
 		</head>
 
