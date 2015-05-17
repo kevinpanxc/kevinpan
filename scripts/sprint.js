@@ -140,6 +140,15 @@ Sprint = (function() {
 		pages[pageName].pageHandler();
 	}
 
+	function updatePageTitle() {
+		var new_title_div = $('#sprint_new_page_title');
+
+		if (new_title_div.length) {
+			document.title = new_title_div.html();
+			new_title_div.remove();
+		}
+	}
+
 	function ajaxNavigate(pageName, transitionName, options) {
 
 		var request = null;
@@ -160,6 +169,7 @@ Sprint = (function() {
 				ajaxContent.innerHTML = response;
 				ajaxContent.style.display = 'block';
 				$('#spring_spinner').remove();
+				updatePageTitle();
 
 				callPageHandlers(pageName);
 

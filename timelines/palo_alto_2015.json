@@ -17,7 +17,7 @@
                 "text":"<p>First day in California! The weather is amazing.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xfp1/v/t1.0-9/18708_10153332654869359_2902781743465890794_n.jpg?oh=969e91686c59a2034417a1a58a4a1c34&oe=55C3A0AB",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -27,7 +27,7 @@
                 "text":"<p>First time on the Caltrain. Weather is perfect in San Francisco. Pretty big SF Giants game going on, AT&T park is packed. Ziggy's Burgers for lunch, afternoon snack at Nook Cafe on Nob Hill, Avengers at AMC Metreon 16, and dinner at Chipotle.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpt1/v/t1.0-9/11164817_10153332652559359_2049168230433722028_n.jpg?oh=3fc3c6a9ff307dc5274847a1765010e8&oe=55CB5407",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -37,7 +37,7 @@
                 "text":"<p>A lot more snacks than I was lead to believe. Office is pretty nice, at least the lobby area. Technical setup and HR briefing, then team lunch at Nola. The other office, 265 Lytton Avenue is realllyyyy nice. Setting up desktop and laptop + starting the intern bootcamp course.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/11246030_10153332654779359_849461537165330317_n.jpg?oh=90ca667c4579b87548f750113649a534&oe=5604CEA4",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -47,7 +47,7 @@
                 "text":"<p>A9 celebrates Cinco de Mayo party. Tacos and churros and lava cakes.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpf1/v/t1.0-9/s720x720/11219593_10153332654629359_5183646420630141125_n.jpg?oh=c636e7bdf908d99f87232c4b4e304268&oe=55C2355B",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -56,7 +56,7 @@
                 "headline":"Afternoon run around the neighbourhood",
                 "text":"<p>First time running outside in a long time...</p>",
                 "asset": {
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -67,7 +67,7 @@
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/11156179_10153332654809359_2573906451006462999_n.jpg?oh=7eea8912237606489ecc4c18db69eb76&oe=55C56B45",
                     "caption":"View from the Customs Border Protection office",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -76,7 +76,7 @@
                 "headline":"Sushirrito lunch!",
                 "text":"<p>A9 Waterloo interns get Sushirrito for lunch.</p>",
                 "asset": {
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -86,7 +86,7 @@
                 "text":"<p>Ran with Brian and Vivian. Stanford is beautiful. Had dinner at Local Union 271 with Brian.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/s720x720/11205506_10153332655494359_2371591895110424625_n.jpg?oh=97619861108d440649611873a15c3d2d&oe=55D24F5E",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -95,7 +95,7 @@
                 "headline":"Badminton with mentor at Synergy Badminton Club",
                 "text":"<p>Hongyu drove Brian and I to Synergy after work. We had Steam on University Avenue for dinner and bubble tea at T4 afterwards.</p>",
                 "asset": {
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -105,7 +105,7 @@
                 "text":"<p>Not bad, but picked something from the Chef's recommendations and paid twice as much as everyone else.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xft1/v/t1.0-9/s720x720/10441533_10153338274529359_2324533977110910143_n.jpg?oh=5ad6820cce7e82cd2afbb14bcbb4de73&oe=5608D921",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -114,8 +114,7 @@
                 "headline":"Dinner at Sam's Chowder House and bubble tea at T4",
                 "text":"<p>Went with Brian and Jacky. The chowder was not bad, bubble tea was really good.</p>",
                 "asset": {
-                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xft1/v/t1.0-9/s720x720/10441533_10153338274529359_2324533977110910143_n.jpg?oh=5ad6820cce7e82cd2afbb14bcbb4de73&oe=5608D921",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -125,7 +124,7 @@
                 "text":"<p>Lunch at Brioche Bakery with Michelle and visited Coit Tower. Met up with the rest of the group there and went to Pier 39. Had In-N-Out burger for dinner and finally went to Lombard Street. Caltrain broke down on the way back and we were waiting for our Uber to pick us up when they fixed it. Poor Uber driver. Met a couple friendly Stanford freshmen because of this.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xta1/v/t1.0-9/s720x720/11115862_10153338276154359_6890275858932944103_n.jpg?oh=12e95b02229eb1bb71d5b8927865fb26&oe=55C72269",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -134,7 +133,7 @@
                 "headline":"Morning run",
                 "text":"<p>Ran to Mitchell Park and back.</p>",
                 "asset": {
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -144,17 +143,17 @@
                 "text":"<p>Weather was good as usual.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpt1/v/t1.0-9/11255850_10153343778434359_753198502794104220_n.jpg?oh=df1ebaff4396a1543c82218828e73935&oe=55D1B371",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
                 "startDate":"2015,5,11,18,00",
                 "endDate":"2015,5,11,21,00",
-                "headline":"Got my bike! Biked from the Nvidia campus to A9, 16 miles.",
+                "headline":"Got my bike! Biked from the Nvidia campus to A9, 16 miles",
                 "text":"<p>Decided to get my bike today. Was supposed to bike along the north shore but some person mistakenly told me that I was biking north when I was actually heading south. Got to A9 at 7:50 pm and met up with Brian. Had dinner at Crepevine and then bubbletea again at T4. Biked home and legs were killing me afterwards.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xat1/v/t1.0-9/11266562_10153343775249359_8161748742748891868_n.jpg?oh=77364b85fa1388f4748df7e7323d8fcb&oe=5608E4EC",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -164,7 +163,7 @@
                 "text":"<p>Badminton with Brian and Michelle. Dinner at Rangoon Ruby, Burmese cuisine, with Brian.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xfp1/v/t1.0-9/11013569_10153343776489359_6836602394397231600_n.jpg?oh=3864360c7512cf803188c7c5bd130379&oe=55C6369A",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -174,7 +173,7 @@
                 "text":"<p>More people came this time. Vivian, Jacky, and Dino. Didn't run for too long cause people got tired so we walked around campus for most of the time.</p>",
                 "asset": {
                     "media":"",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -184,7 +183,7 @@
                 "text":"<p>Wanted to go to the vegan Chinese restaurant but the owners were arguing and ignored all patrons. It was actually storming today :O Food was OK, restaurant was buffet style with lots of curry as usual.</p>",
                 "asset": {
                     "media":"",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -194,7 +193,7 @@
                 "text":"<p>Played Hanabi with Brian, Jacky, An Ni, and Dino. We're not good at it and the biggest cheaters. Not too many other people showed up, one other full timer and a mother and child that aren't from A9.</p>",
                 "asset": {
                     "media":"",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -204,7 +203,7 @@
                 "text":"<p>Went with Brian in the morning to San Jose to apply for an SSN. Saw that The Piano Guys were playing there tomorrow :(</p>",
                 "asset": {
                     "media":"",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -214,7 +213,7 @@
                 "text":"<p>All 6 Waterloo interns went :D Lamb and beef gyro plate... should've gotten the salad version instead.</p>",
                 "asset": {
                     "media":"",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             },
             {
@@ -224,7 +223,7 @@
                 "text":"<p>Biked up 1600 feet in 5 miles with Michelle. Met up at the Menlo Park Caltrain station at 10:30 am and reached the south parking lot of Purisima Creek Redwoods at 1 pm. Never consistently biked uphill for such a long distance in my life. Hiked the Purisima Creek trail for 1.6 miles before heading into Craig Britton trail for another couple miles. Hiked till 4 pm before heading back to Menlo Park. Dinner at Steam and then bubble tea.</p>",
                 "asset": {
                     "media":"",
-                    "thumbnail":"sunny.png"
+                    "thumbnail":"../images/sunny.png"
                 }
             }
         ],
