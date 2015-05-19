@@ -24,7 +24,7 @@
                 "startDate":"2015,5,3,10,00",
                 "endDate":"2015,5,3,23,59,59",
                 "headline":"San Francisco day trip",
-                "text":"<p>First time on the Caltrain. Weather is perfect in San Francisco. Pretty big SF Giants game going on, AT&T park is packed. Ziggy's Burgers for lunch, afternoon snack at Nook Cafe on Nob Hill, Avengers at AMC Metreon 16, and dinner at Chipotle.</p>",
+                "text":"<p>Met up with Brian first and we took the Caltrain to downtown San Francisco. Weather is perfect. Pretty big SF Giants game going on, AT&T park is packed. Ziggy's Burgers for lunch, afternoon snack at Nook Cafe on Nob Hill, Avengers at AMC Metreon 16, and dinner at Chipotle.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpt1/v/t1.0-9/11164817_10153332652559359_2049168230433722028_n.jpg?oh=3fc3c6a9ff307dc5274847a1765010e8&oe=55CB5407",
                     "thumbnail":"../images/sunny.png"
@@ -37,6 +37,15 @@
                 "text":"<p>A lot more snacks than I was lead to believe. Office is pretty nice, at least the lobby area. Technical setup and HR briefing, then team lunch at Nola. The other office, 265 Lytton Avenue is realllyyyy nice. Setting up desktop and laptop + starting the intern bootcamp course.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/11246030_10153332654779359_849461537165330317_n.jpg?oh=90ca667c4579b87548f750113649a534&oe=5604CEA4",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,5,10,00",
+                "endDate":"2015,5,5,12,00",
+                "headline":"Intern breakfast and orientation",
+                "text":"<p>Breakfast pastries from La Boulange. Played an 'ice breaker' game followed by a few presentations from HR.</p>",
+                "asset": {
                     "thumbnail":"../images/sunny.png"
                 }
             },
@@ -76,6 +85,7 @@
                 "headline":"Sushirrito lunch!",
                 "text":"<p>A9 Waterloo interns get Sushirrito for lunch.</p>",
                 "asset": {
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xft1/v/t1.0-9/11063938_10153358514429359_4830053407924064821_n.jpg?oh=fb5493ec3f05fb8aca1084f93ff7de1e&oe=55CC284A",
                     "thumbnail":"../images/sunny.png"
                 }
             },
@@ -109,10 +119,10 @@
                 }
             },
             {
-                "startDate":"2015,5,8,12,00",
-                "endDate":"2015,5,8,13,00",
+                "startDate":"2015,5,8,18,30",
+                "endDate":"2015,5,8,20,00",
                 "headline":"Dinner at Sam's Chowder House and bubble tea at T4",
-                "text":"<p>Went with Brian and Jacky. The chowder was not bad, bubble tea was really good.</p>",
+                "text":"<p>Went with Brian and Jacky. The chowder was not bad, bubble tea was really good. I think we got bubble tea afterwards.</p>",
                 "asset": {
                     "thumbnail":"../images/sunny.png"
                 }
@@ -202,7 +212,7 @@
                 "headline":"Downtown San Jose for SSN",
                 "text":"<p>Went with Brian in the morning to San Jose to apply for an SSN. Saw that The Piano Guys were playing there tomorrow :(</p>",
                 "asset": {
-                    "media":"",
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpf1/v/t1.0-9/13490_10153358528734359_1073496391925497755_n.jpg?oh=a23d5227c651fd8a2394827661f4a438&oe=55C911B0",
                     "thumbnail":"../images/sunny.png"
                 }
             },
@@ -212,7 +222,7 @@
                 "headline":"Cafe 220 lunch on the 130 4th floor patio",
                 "text":"<p>All 6 Waterloo interns went :D Lamb and beef gyro plate... should've gotten the salad version instead.</p>",
                 "asset": {
-                    "media":"",
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xap1/v/t1.0-9/11227400_10153358529014359_2836728837833509894_n.jpg?oh=8d2f2d0d9113f2304283e7f53014c195&oe=55FF5449",
                     "thumbnail":"../images/sunny.png"
                 }
             },
@@ -222,7 +232,17 @@
                 "headline":"Biked up Kings Mountain Road",
                 "text":"<p>Biked up 1600 feet in 5 miles with Michelle. Met up at the Menlo Park Caltrain station at 10:30 am and reached the south parking lot of Purisima Creek Redwoods at 1 pm. Never consistently biked uphill for such a long distance in my life. Hiked the Purisima Creek trail for 1.6 miles before heading into Craig Britton trail for another couple miles. Hiked till 4 pm before heading back to Menlo Park. Dinner at Steam and then bubble tea.</p>",
                 "asset": {
-                    "media":"",
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpt1/v/t1.0-9/q85/p206x206/11046350_10153358528144359_3006414048017210480_n.jpg?oh=a63ccc554026c7e7c7c4370507058e4c&oe=56023E6C",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,18,12,20",
+                "endDate":"2015,5,18,13,30",
+                "headline":"Lunch at Pluto's",
+                "text":"<p>The salad was pretty good. The place is super busy at lunch.</p>",
+                "asset": {
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xfp1/v/t1.0-9/11036945_10153358529039359_5161476142773105457_n.jpg?oh=9e92c34ffcf98d41472706bb4307ccbe&oe=560BF85B",
                     "thumbnail":"../images/sunny.png"
                 }
             }
