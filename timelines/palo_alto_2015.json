@@ -122,7 +122,7 @@
                 "startDate":"2015,5,8,18,30",
                 "endDate":"2015,5,8,20,00",
                 "headline":"Dinner at Sam's Chowder House and bubble tea at T4",
-                "text":"<p>Went with Brian and Jacky. The chowder was not bad, bubble tea was really good. I think we got bubble tea afterwards.</p>",
+                "text":"<p>Went with Brian and Jacky. The chowder was not bad, bubble tea was really good.</p>",
                 "asset": {
                     "thumbnail":"../images/sunny.png"
                 }
@@ -243,6 +243,182 @@
                 "text":"<p>The salad was pretty good. The place is super busy at lunch.</p>",
                 "asset": {
                     "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xfp1/v/t1.0-9/11036945_10153358529039359_5161476142773105457_n.jpg?oh=9e92c34ffcf98d41472706bb4307ccbe&oe=560BF85B",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,19,10,00",
+                "endDate":"2015,5,19,11,00",
+                "headline":"Second intern breakfast, 18 or 19 interns joined this week",
+                "text":"<p>Free pastry breakfast... ate 7 pieces or something... Played A9 bingo to get to know each other. All the new interns are from really good schools in the States (Carnegie Mellon, Harvard, etc), so many grad students.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,19,19,30",
+                "endDate":"2015,5,19,20,45",
+                "headline":"Biked to the Bay Trail by Casey Forebay",
+                "text":"<p>Decided to go biking for a bit after work. The sloughs are really scenic and calm.</p>",
+                "asset": {
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpf1/v/t1.0-9/10981952_10153371570799359_4654819337121137226_n.jpg?oh=2b4f9f2183b873c986c86f51dc06a849&oe=55C82240",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,20,12,30",
+                "endDate":"2015,5,20,13,30",
+                "headline":"Lunch on the 130 building patio",
+                "text":"<p>Didn't buy anything, had frozen pizza and fruits and nuts from the kitchens. Jacky ate salad again -.- Met a couple of the new interns, one's a machine learning Master's student from Carnegie Mellon. We baked some of the frozen cookie dough in the fridge for the first time. Turned out really good!</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,20,18,30",
+                "endDate":"2015,5,20,19,00",
+                "headline":"Dinner at Umami Burger before rock climbing",
+                "text":"<p>Dinner with Anni, Brian, Jacky, and Dino. Burger was pretty small for its price but tasted amazing :o The meat was cooked really well and the housemade sauces are super good too.</p>",
+                "asset": {
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpa1/v/t1.0-9/18610_10153371570429359_827340817554353313_n.jpg?oh=44cd1443662c869b0c2b64b101da7964&oe=55BF448A",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,20,20,00",
+                "endDate":"2015,5,20,22,30",
+                "headline":"Rock climbing at Planet Granite in Sunnyvale",
+                "text":"<p>First time rock climbing for several years. Took a belay lesson before partnering with Jacky and trying out some walls. We tried out 4 walls before we had to leave to catch the last Caltrain, wish we had more time.</p>",
+                "asset": {
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xfp1/v/t1.0-9/10985901_10153371570039359_8593219995025195211_n.jpg?oh=9cafa1cbf42e9e187c022cb397b5df5e&oe=560A1601",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,21,18,00",
+                "endDate":"2015,5,21,20,30",
+                "headline":"Board games night again!",
+                "text":"<p>Got dinner from La Boulange, some sandwich. Played Revolution and then Smash Up. Revolution's super fun.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,22,12,20",
+                "endDate":"2015,5,22,13,30",
+                "headline":"Lunch at Garden Fresh Chinese Vegan Cuisine",
+                "text":"<p>Had lunch with Brian, Jacky, Dino, Tomo, and the other intern that sits behind Jacky. Both interns are undergraduate Berkley students. Really cool guys. The dish was nice, mine had vegan ham that tasted nothing like ham, exactly like tofu. The vegan fried chicken though, tasted so much like chicken.</p>",
+                "asset": {
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xpf1/v/t1.0-9/10931721_10153371570284359_8671807845045727362_n.jpg?oh=b09e23e170f4e6df586be76e50b95947&oe=55C0A67B",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,22,14,30",
+                "endDate":"2015,5,22,18,00",
+                "headline":"AXP team mini gold event at Golfland USA",
+                "text":"<p>Pretty fun, lots of little kids there and we're a group of mostly 30 and 40 year olds. Won a free round of mini golf by getting a hole in one on the 19th bonus hole :D</p>",
+                "asset": {
+                    "media":"https://scontent.fsjc1-2.fna.fbcdn.net/hphotos-xat1/v/t1.0-9/11110874_10153371568984359_1442772017160903164_n.jpg?oh=9e25dbce7091f43057e7049ba90aeb28&oe=560AF4C8",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,23,10,30",
+                "endDate":"2015,5,23,19,00",
+                "headline":"Biked to Alviso Marina County Park and back!",
+                "text":"<p>Biked with Michelle and Dino. The bike there was super nice, weather was perfect and the view was great! Got to the park, hiked around and came back. Michelle found out she left her keys in the morning at the Caltrain station :( Biked back, first to Castro Street in Mountain View for bubble tea at Tea Era and then ramen at Maru Ichi.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,24,11,00",
+                "endDate":"2015,5,24,20,00",
+                "headline":"Golden Gate Park and Twin Peaks in San Francisco",
+                "text":"<p>Met up with Vivian in the San Francisco Caltrain station before heading to Adrian's place. Went to lunch at New Nagano Sushi. I thought it was pretty mediocre, the rolls were untidy and not circular. Went to the Golden Gate Park after, first stop at the Japanese Tea Garden. Then we went to the Bison Paddock in the Park. Met up with Oscar and Karim there. Went to Twin Peaks afterwards. We stopped by Flywheel Coffee Roasters for some coffee and hot chocolate. Weather was super cloudy and foggy on Twin Peaks. It was also SUPER windy and wet on the peak. Really awesome experience still even though we couldn't really see anything.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,25,18,00",
+                "endDate":"2015,5,25,22,00",
+                "headline":"Cooking at Michelle's place with Dino",
+                "text":"<p>Made pull apart cheese and garlic crack bread, guac, and awesome burgers! :D</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,26,12,20",
+                "endDate":"2015,5,26,13,30",
+                "headline":"Crepevine for lunch with A9 interns",
+                "text":"<p>10 of us came. Super good food, great company.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,27,10,20",
+                "endDate":"2015,5,27,10,30",
+                "headline":"Third intern breakfast",
+                "text":"<p>Free pastries again :D</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,27,17,10",
+                "endDate":"2015,5,27,19,30",
+                "headline":"Biked by the Bay Trail again with A9 interns",
+                "text":"<p>Biked with Matt, Dino, Vivian, and Brian to the Bay Trail. Basically same route as with Michelle and Dino but we only made it halfway (or slightly more than a quarter?). Stopped at the bridge that led to the gravel path and biked directly south to Castro Street for dinner. Dinner at Ramen House Ryowa.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,28,12,00",
+                "endDate":"2015,5,28,13,00",
+                "headline":"Toastmasters meeting",
+                "text":"<p>Jillian invited all the interns to an A9 Toastmasters meeting (free pizza lunch as incentive). It's all about giving speeches, reminds me a lot about speech com. I'm going to continue going to the meetings :D</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,28,18,15",
+                "endDate":"2015,5,28,21,00",
+                "headline":"Third board games night",
+                "text":"<p>Played Castle with Dino and (forgot her name) and her son, \"little Peter\", her son. Got lucky and won even though I didn't really know what I was doing most of the time. Other group played Coup. Played a match of Coup before leaving for home.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,29,12,20",
+                "endDate":"2015,5,29,13,30",
+                "headline":"Lunch at Pluto's again",
+                "text":"<p>A whole bunch of A9 interns decided to go get Sushirrito. The line was super long at Sushirrito so Jacky and I decided to go to Pluto's instead. Everyone followed afterwards cause the line at Sushiritto was too long. Got a sandwich instead of a salad this time :D</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,29,17,45",
+                "endDate":"2015,5,29,22,00",
+                "headline":"Googleplex for dinner and Mad Max at Cinemark Century Cinema 16",
+                "text":"<p>Biked with Jacky, Vivian, Brian, Dino, and Matt to the Googleplex through the Bay Trail again. Met Chris Mitcheltree and his friend (forgot her name, from Vancouver :o) there and had dinner at Cafe Moma. Google bikes are bad but can be useful sometimes. Went to the theatre afterwards for Mad Max. The theatre was amazing, seats were super spacious and reclining. The movie was amazing, just as good as the ratings suggest. Biked back with Matt and Jacky to Palo Alto.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2015,5,30,10,30",
+                "endDate":"2015,5,31,00,00",
+                "headline":"Biking trip in San Francisco and Sausilito",
+                "text":"<p>Met up with Matt at the Palo Alto Caltrain Station. We brought our bikes. Got to the San Francisco station and met up with Adrian. Adrian had to bus to the bike rental store so we decided to bike there to meet him. We biked by the San Francisco Bay Trail and saw a military ship (small, maybe not even a destroyer?). Oh it's a Peruvian frigate, the BAP Villavisencio. Met with Adrian and biked to the Golden Gate Bridge. So much uphill T_T It was confusing getting to the biker's side but we made it eventually. The bike across the bridge was amazing. Next, we made our way to Sausilito downtown. Sausilito is beautiful. Why do they specifically have city staff to direct and help bikers? :o We had 4pm \"lunch\" at Lappert's. I got fish tacos (there was cilantro!). Took the ferry back to SF afterwards and biked to the AT&T park just to see the outside of the stadium as a game was about to begin. Biked to the Tacqueria Can-cun on 19th and Mission afterwards for dinner. Coincidentally saw Brian and his friends there for dinner. The line at the restaurant was sooo long, went into the corridor to the washrooms and wrapped around. Best burrito I've ever had in my life. It was a super burrito with marinated pork. Also tried Coke in a glass bottle, pretty good. Biked to Adrian's place and hung out before the next caltrain. We stayed a bit too long and had to rush to catch it but the train, which was supposed to leave at 9:30 left at 10:15 for some reason -.- We had our bikes locked up on the train and missed the California Avenue caltrain stop since unlocking took too long (learned that we shouldn't lock our bikes on the train). Biked from the San Antonio station back home.</p>",
+                "asset": {
                     "thumbnail":"../images/sunny.png"
                 }
             }
