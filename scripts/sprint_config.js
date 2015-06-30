@@ -14,6 +14,10 @@ Sprint.addPage('RESUME',
 	{ pageUrl : '/kevinpan/resume',
 		pageHandler : resumePageHandler });
 
+Sprint.addPage('TIMELINES',
+    { pageUrl : '/kevinpan/timelines',
+        pageHandler : function () {} });
+
 Sprint.addTransition('typetwo', 2);
 
 function homePageHandler () {
