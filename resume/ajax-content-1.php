@@ -6,20 +6,27 @@
         <a href="mailto:xkpan@uwaterloo.ca">xkpan@uwaterloo.ca</a>
     </div>
     <div id="res-body">
-        <section id="technical-expertise">
-            <h1>Technical Skills Summary</h1>
-            <ul>
-                <li><strong>Languages:</strong> Python, Ruby, JavaScript, Java, C, C++, Objective C, PHP, SQL</li>
-                <li><strong>Web Technologies:</strong> Django, Ruby on Rails, Node.js, Java Server Faces (JSF), Java Server Pages (JSP), Apache</li>
-                <li><strong>Dev Tools:</strong> Sublime Text, vim, Android Studio, Eclipse, XCode, Visual Studio</li>
-            </ul>
-        </section>
         <section>
-            <h1>Employment</h1>
+            <h1>Professional Experience</h1>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>A9.com<span class="job-title">, Software Engineer<span></h2>
+                    <div class="info-box-tech-summary">Java, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS, Node.js, Perl</div>
+                    <div class="info-box-date">May - August, 2014</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Worked on a real-time data analytics pipeline for the Amazon Ad Exchange (AAX) platform (real-time bidding platform)</li>
+                        <li>Built a distributed configuration service to control a distributed system of log samplers which will run alongside the AAX server on each AAX host</li>
+                        <li>Utilized Linux system monitoring tools and bash scripting to investigate sampler CPU, memory, and I/O load on AAX hosts as well as accuracy of sampled data</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
             <div class="info-box">
                 <div class="left-box">
                     <h2>A Thinking Ape<span class="job-title">, Software Engineer<span></h2>
-                    <div class="info-box-tech-summary">Django, iOS, Android, MySQL</div>
+                    <div class="info-box-tech-summary">Django, iOS, Android, MySQL, Git</div>
                     <div class="info-box-date">September - December, 2014</div>
                 </div>
                 <div class="right-box">
@@ -71,7 +78,8 @@
                 <div class="right-box">
                     <ul>
                         <li>Website that aggregates and showcases funny quotes from Twitch.tv's IRC chat channels</li>
-                        <li>Over 65,000 monthly pageviews and more than 10,000 monthly unique users</li>
+                        <li>Over 147,000 monthly pageviews and more than 28,000 monthly unique users</li>
+                        <li>Developed a strong understanding of Search Engine Optimization (SEO) through building and growing this website</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>

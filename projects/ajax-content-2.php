@@ -41,7 +41,7 @@
 			</div>
 
 			<div class="proj-desc">
-				Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels. Users can sign up to vote on their favorite quotes. One of my largest and most successful projects to date. More than <strong>12,000</strong> monthly unique users with over <strong>75,000</strong> monthly pageviews.</br>
+				Website that showcases funny/silly quotes from Twitch.tv's IRC chat channels. Users can sign up to vote on their favorite quotes. More than <strong>28,000</strong> monthly unique users with over <strong>147,000</strong> monthly pageviews. Developed a strong understanding of Search Engine Optimization (SEO) through building and growing this website.</br>
 <!-- 				<div style="text-align:right">
 					<div><strong>Pages/session:</strong> 5.41</div>
 					<div><strong>Average session duration:</strong> 03:52</div>
