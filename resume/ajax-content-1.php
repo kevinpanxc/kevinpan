@@ -11,13 +11,14 @@
             <div class="info-box">
                 <div class="left-box">
                     <h2>A9.com<span class="job-title">, Software Engineer<span></h2>
-                    <div class="info-box-tech-summary">Java, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS, Node.js, Perl</div>
+                    <div class="info-box-tech-summary">Java, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl</div>
                     <div class="info-box-date">May - August, 2014</div>
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Worked on a real-time data analytics pipeline for the Amazon Ad Exchange (AAX) platform (real-time bidding platform)</li>
-                        <li>Built a distributed configuration service to control a distributed system of log samplers which will run alongside the AAX server on each AAX host</li>
+                        <li>Developed a real-time data analytics pipeline for the Amazon Ad Exchange (AAX) platform (real-time bidding platform)</li>
+                        <li>Built a distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications which will run alongside the AAX server on each AAX host</li>
+                        <li>Kinesis was used to stream sampled log data to Kinesis data consumers which updated an RDS MySQL database</li>
                         <li>Utilized Linux system monitoring tools and bash scripting to investigate sampler CPU, memory, and I/O load on AAX hosts as well as accuracy of sampled data</li>
                     </ul>
                 </div>
