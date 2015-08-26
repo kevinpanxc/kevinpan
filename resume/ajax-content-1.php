@@ -11,7 +11,7 @@
             <div class="info-box">
                 <div class="left-box">
                     <h2>A9.com<span class="job-title">, Software Engineer<span></h2>
-                    <div class="info-box-tech-summary">Java, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl</div>
+                    <div class="info-box-tech-summary">Java, jOOQ, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl, Git</div>
                     <div class="info-box-date">May - August, 2014</div>
                 </div>
                 <div class="right-box">
