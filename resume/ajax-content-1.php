@@ -17,9 +17,12 @@
                 <div class="right-box">
                     <ul>
                         <li>Developed a real-time data analytics pipeline for the Amazon Ad Exchange (AAX) platform (real-time bidding platform)</li>
-                        <li>Built a distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications which will run alongside the AAX server on each AAX host</li>
-                        <li>Kinesis was used to stream sampled log data to Kinesis data consumers which updated an RDS MySQL database</li>
-                        <li>Utilized Linux system monitoring tools and bash scripting to investigate sampler CPU, memory, and I/O load on AAX hosts as well as accuracy of sampled data</li>
+                        <ul>
+                            <li>Built a distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications which will run alongside the AAX server on each AAX host</li>
+                            <li>Kinesis was used to stream sampled log data to Kinesis data consumers which updated an RDS MySQL database</li>
+                            <li>Utilized Linux system monitoring tools and bash scripting to investigate sampler CPU, memory, and I/O load on AAX hosts as well as accuracy of sampled data</li>
+                            <li>Deployed to production and the first planned use for the pipeline will help save Amazon an estimated $10,000 in an upcoming mobile advertising promotion campaign</li>
+                        </ul>
                     </ul>
                 </div>
                 <div class="clear-both"></div>

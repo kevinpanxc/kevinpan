@@ -356,6 +356,7 @@ section h2 {
     list-style-type: none;
     line-height: 18px;
     margin: 0;
+    padding-left: 16px;
 }
 
 .info-box ul li {
