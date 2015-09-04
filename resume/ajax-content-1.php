@@ -21,7 +21,7 @@
                             <li>Built a distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications which will run alongside the AAX server on each AAX host</li>
                             <li>Kinesis was used to stream sampled log data to Kinesis data consumers which updated an RDS MySQL database</li>
                             <li>Utilized Linux system monitoring tools and bash scripting to investigate sampler CPU, memory, and I/O load on AAX hosts as well as accuracy of sampled data</li>
-                            <li>Deployed to production and the first planned use for the pipeline will help save Amazon an estimated $10,000 in an upcoming mobile advertising promotion campaign</li>
+                            <li>Deployed to production</li>
                         </ul>
                     </ul>
                 </div>
@@ -35,9 +35,9 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Played an integral part in developing the relationship feature for Party in My Dorm on both the server and the iOS client</li>
-                        <li>Developed an individual Elo system for Kingdoms at War; also updated all clients for this feature (iOS, Android, Adobe Flex)</li>
-                        <li>Fixed a significant security issue found in the PimD/KaW iOS clients that made them vulnerable to man-in-the-middle attacks</li>
+                        <li>Played an integral part in developing the relationship feature for the mobile game, Party in My Dorm, on both the server and the iOS client</li>
+                        <li>Developed an individual Elo system for the mobile game, Kingdoms at War; also updated all clients for this feature (iOS, Android, Adobe Flex)</li>
+                        <li>Fixed a security issue found in the PimD/KaW iOS clients that made them vulnerable to man-in-the-middle attacks</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -84,6 +84,21 @@
                         <li>Website that aggregates and showcases funny quotes from Twitch.tv's IRC chat channels</li>
                         <li>Over 147,000 monthly pageviews and more than 28,000 monthly unique users</li>
                         <li>Developed a strong understanding of Search Engine Optimization (SEO) through building and growing this website</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Project Evil</h2>
+                    <div class="info-box-tech-summary">Python with Amazon Product Advertising API, AlchemyAPI, and Twitch API</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Developed a Twitch.tv IRC channel advertising bot as part of an intern hackathon at A9</li>
+                        <li>Uses natural language processing (NLP) through AlchemyAPI to extract relevant keywords from Twitch.tv IRC channels</li>
+                        <li>Uses the Amazon Product Advertising API to retrieve Amazon products from keywords returned by AlchemyAPI. These are served as advertisements to the IRC channel.</li>
+                        <li>Pitched the idea to other interns, built a team, and led the development of the project</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
