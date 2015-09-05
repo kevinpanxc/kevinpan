@@ -16,7 +16,25 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Developed a real-time data analytics pipeline for the Amazon Ad Exchange (AAX) platform (real-time bidding platform)</li>
+                        <li>Built and deployed to production a real-time data analytics pipeline for the Amazon Ad Exchange (AAX) platform (real-time bidding platform) consisting of:</li>
+                        <ul>
+                            <li>A log sampling application that will run alongside an AAX server on every AAX host</li>
+                            <li>A distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications</li>
+                            <li>An aggregator application using jOOQ that receives data from log samplers and updates a MySQL RDS database</li>
+                        </ul>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>A9.com<span class="job-title">, Software Engineer<span></h2>
+                    <div class="info-box-tech-summary">Java, jOOQ, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl, Git</div>
+                    <div class="info-box-date">May - August, 2014</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Built and deployed to production a real-time data analytics pipeline for the Amazon Ad Exchange (AAX) platform (real-time bidding platform) consisting of:</li>
                         <ul>
                             <li>Built a distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications which will run alongside the AAX server on each AAX host</li>
                             <li>Kinesis was used to stream sampled log data to Kinesis data consumers which updated an RDS MySQL database</li>
@@ -82,7 +100,7 @@
                 <div class="right-box">
                     <ul>
                         <li>Website that aggregates and displays funny quotes from Twitch.tv's IRC channels</li>
-                        <li>Over 147,000 monthly pageviews and more than 28,000 monthly unique users</li>
+                        <li>147,000+ monthly pageviews and 28,000+ monthly unique users</li>
                         <li>Developed a strong understanding of Search Engine Optimization (SEO) through building and growing this website</li>
                     </ul>
                 </div>
@@ -95,8 +113,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>A Twitch.tv IRC channel advertising bot that utilizes natural language processing (NLP); built as part of an intern hackathon at A9</li>
-                        <li>Uses NLP through AlchemyAPI to serve advertisements to the IRC channel based on recent conversation topics</li>
+                        <li>A Twitch.tv IRC channel advertising bot that utilizes natural language processing (NLP) to determine what advertisements to serve; built as part of an intern hackathon at A9</li>
                         <li>Pitched the idea to other interns, built a team, and led the development of the project</li>
                     </ul>
                 </div>
@@ -126,34 +143,9 @@
                 </div>
                 <div class="clear-both"></div>
             </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>HTML 5 Physics</h2>
-                    <div class="info-box-tech-summary">JavaScript with the HTML5 Canvas</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>2D electric field visualizer: visualizes how point charges and line charges alter the electric field around them</li>
-                        <li>Rubber band simulator</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>Tether</h2>
-                    <div class="info-box-tech-summary">Node.js with Box2DJS, Express, and Socket.IO</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>A player plays as a spaceship that is tethered to her/his team member. They need to work together to swing asteroids to break the other team's tether.</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
             <div class="info-box info-box-last">
                 <div class="left-box">
-                    <h2>More on my Github...</h2>
+                    <h2>More on Github...</h2>
                 </div>
                 <div class="clear-both"></div>
             </div>
@@ -168,9 +160,9 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Dean's Honours List (Terms 1B and 2A)</li>
+                        <li>Dean's Honours List (Terms 1B, 2A, and 3A)</li>
                         <li>Class Academic Representative (April 2014 - Present)</li>
-                        <li>President's Scholarship of Distinction (June 2012)</li>
+                        <li>President's Scholarship (June 2012)</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
