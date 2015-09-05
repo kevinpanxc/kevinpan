@@ -81,7 +81,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Website that aggregates and showcases funny quotes from Twitch.tv's IRC chat channels</li>
+                        <li>Website that aggregates and displays funny quotes from Twitch.tv's IRC channels</li>
                         <li>Over 147,000 monthly pageviews and more than 28,000 monthly unique users</li>
                         <li>Developed a strong understanding of Search Engine Optimization (SEO) through building and growing this website</li>
                     </ul>
@@ -95,9 +95,8 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Developed a Twitch.tv IRC channel advertising bot as part of an intern hackathon at A9</li>
-                        <li>Uses natural language processing (NLP) through AlchemyAPI to extract relevant keywords from Twitch.tv IRC channels</li>
-                        <li>Uses the Amazon Product Advertising API to retrieve Amazon products from keywords returned by AlchemyAPI. These are served as advertisements to the IRC channel.</li>
+                        <li>A Twitch.tv IRC channel advertising bot that utilizes natural language processing (NLP); built as part of an intern hackathon at A9</li>
+                        <li>Uses NLP through AlchemyAPI to serve advertisements to the IRC channel based on recent conversation topics</li>
                         <li>Pitched the idea to other interns, built a team, and led the development of the project</li>
                     </ul>
                 </div>
