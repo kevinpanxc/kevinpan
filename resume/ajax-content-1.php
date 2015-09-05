@@ -12,7 +12,7 @@
                 <div class="left-box">
                     <h2>A9.com<span class="job-title">, Software Engineer<span></h2>
                     <div class="info-box-tech-summary">Java, jOOQ, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl, Git</div>
-                    <div class="info-box-date">May - August, 2014</div>
+                    <div class="info-box-date">May - August, 2015</div>
                 </div>
                 <div class="right-box">
                     <ul>
@@ -21,25 +21,6 @@
                             <li>A log sampling application that will run alongside an AAX server on every AAX host</li>
                             <li>A distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications</li>
                             <li>An aggregator application using jOOQ that receives data from log samplers and updates a MySQL RDS database</li>
-                        </ul>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>A9.com<span class="job-title">, Software Engineer<span></h2>
-                    <div class="info-box-tech-summary">Java, jOOQ, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl, Git</div>
-                    <div class="info-box-date">May - August, 2014</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>Built and deployed to production a real-time data analytics pipeline for the Amazon Ad Exchange (AAX) platform (real-time bidding platform) consisting of:</li>
-                        <ul>
-                            <li>Built a distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications which will run alongside the AAX server on each AAX host</li>
-                            <li>Kinesis was used to stream sampled log data to Kinesis data consumers which updated an RDS MySQL database</li>
-                            <li>Utilized Linux system monitoring tools and bash scripting to investigate sampler CPU, memory, and I/O load on AAX hosts as well as accuracy of sampled data</li>
-                            <li>Deployed to production</li>
                         </ul>
                     </ul>
                 </div>
@@ -108,25 +89,13 @@
             </div>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>Project Evil</h2>
+                    <h2>Project Evil (A9 Intern Hackathon)</h2>
                     <div class="info-box-tech-summary">Python with Amazon Product Advertising API, AlchemyAPI, and Twitch API</div>
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>A Twitch.tv IRC channel advertising bot that utilizes natural language processing (NLP) to determine what advertisements to serve; built as part of an intern hackathon at A9</li>
+                        <li>A Twitch.tv IRC channel advertising bot that utilizes natural language processing (NLP) to determine what advertisements to serve</li>
                         <li>Pitched the idea to other interns, built a team, and led the development of the project</li>
-                    </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box">
-                <div class="left-box">
-                    <h2>Mango Ice Cream</h2>
-                    <div class="info-box-tech-summary">Personal Blog @ kevinpan.me</div>
-                </div>
-                <div class="right-box">
-                    <ul>
-                        <li>I actively seek out and learn math and computer science topics that interest me. I primarily use this blog to keep notes on what I have learnt</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -138,7 +107,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Online multiplayer Flappy Bird game. Uses client-side prediction and linear interpolation to accurately and smoothly display the positions of other players</li>
+                        <li>Networked multiplayer Flappy Bird game. Uses client-side prediction and linear interpolation to accurately and smoothly display the positions of other players</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
