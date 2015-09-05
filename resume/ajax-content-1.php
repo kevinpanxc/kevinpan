@@ -35,7 +35,7 @@
                 <div class="right-box">
                     <ul>
                         <li>Played an integral part in developing the relationship feature for the mobile game, Party in My Dorm, on both the server and the iOS client</li>
-                        <li>Developed an individual Elo system for the mobile game, Kingdoms at War; also updated all clients for this feature (iOS, Android, Adobe Flex)</li>
+                        <li>Built an individual Elo system for the mobile game, Kingdoms at War</li>
                         <li>Fixed a security issue found in the PimD/KaW iOS clients that made them vulnerable to man-in-the-middle attacks</li>
                     </ul>
                 </div>
@@ -82,7 +82,6 @@
                     <ul>
                         <li>Website that aggregates and displays funny quotes from Twitch.tv's IRC channels</li>
                         <li>147,000+ monthly pageviews and 28,000+ monthly unique users</li>
-                        <li>Developed a strong understanding of Search Engine Optimization (SEO) through building and growing this website</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -108,6 +107,18 @@
                 <div class="right-box">
                     <ul>
                         <li>Networked multiplayer Flappy Bird game. Uses client-side prediction and linear interpolation to accurately and smoothly display the positions of other players</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Mango Ice Cream</h2>
+                    <div class="info-box-tech-summary">Personal Blog @ kevinpan.me</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>I actively seek out and learn math and computer science topics that interest me. I primarily use this blog to keep notes on what I have learnt</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
