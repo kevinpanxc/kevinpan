@@ -22,7 +22,7 @@
                             <li>A distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications</li>
                             <li>An aggregator application using jOOQ that receives data from log samplers and updates a MySQL RDS database</li>
                         </ul>
-                        <li>New pipeline provides an aggregated view of all log files generated across entire fleet of AAX servers within minutes</li>
+                        <li>New pipeline provides an aggregated view of all log files generated across entire fleet of AAX servers within minutes of log file creation</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
