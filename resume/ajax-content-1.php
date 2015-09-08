@@ -22,6 +22,7 @@
                             <li>A distributed configuration service with Node.js, DynamoDB, and SQS to control a distributed system of log sampling applications</li>
                             <li>An aggregator application using jOOQ that receives data from log samplers and updates a MySQL RDS database</li>
                         </ul>
+                        <li>New pipeline provides an aggregated view of all log files generated across entire fleet of AAX servers within minutes</li>
                     </ul>
                 </div>
                 <div class="clear-both"></div>
@@ -34,7 +35,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Played an integral part in developing the relationship feature for the mobile game, Party in My Dorm, on both the server and the iOS client</li>
+                        <li>Played an integral part in developing a major feature release for the mobile game, Party in My Dorm, on both the server and the iOS client</li>
                         <li>Built an individual Elo system for the mobile game, Kingdoms at War</li>
                         <li>Fixed a security issue found in the PimD/KaW iOS clients that made them vulnerable to man-in-the-middle attacks</li>
                     </ul>
