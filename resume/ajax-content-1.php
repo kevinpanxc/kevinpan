@@ -10,7 +10,7 @@
             <h1>Professional Experience</h1>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>A9.com<span class="job-title">, Software Engineer<span></h2>
+                    <h2>A9.com<span class="job-title">, Software Engineer<span></br><span class="job-title">Advertising Technology</span></h2>
                     <div class="info-box-tech-summary">Java, jOOQ, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl, Git</div>
                     <div class="info-box-date">May - August, 2015</div>
                 </div>
@@ -73,7 +73,7 @@
             </div>
         </section>
         <section>
-            <h1>Personal Projects</h1>
+            <h1>Select Personal Projects</h1>
             <div class="info-box">
                 <div class="left-box">
                     <h2>TwitchQuotes.com</h2>
@@ -110,12 +110,6 @@
                     <ul>
                         <li>Networked multiplayer Flappy Bird game. Uses client-side prediction and linear interpolation to accurately and smoothly display the positions of other players</li>
                     </ul>
-                </div>
-                <div class="clear-both"></div>
-            </div>
-            <div class="info-box info-box-last">
-                <div class="left-box">
-                    <h2>More on Github...</h2>
                 </div>
                 <div class="clear-both"></div>
             </div>

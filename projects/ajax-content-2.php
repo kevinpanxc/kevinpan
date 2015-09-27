@@ -94,18 +94,6 @@
 
 		<div class="project-block">
 			<div class="project-heading">
-				<strong class="project-inner-heading"> Ping </strong> <i class="project-tech">JavaScript (HTML5 Canvas)</i>
-				<a href="https://github.com/kevinpanxc/ping" class="try-it-out">GitHub</a>
-				<a href="<?php echo $scriptsAndCSSPath ?>/projects/ping/" class="try-it-out">Try it Out!</a>
-			</div>
-
-			<div class="proj-desc">
-				Ping is a more dynamic version of the 2D electric field visualizer project. Although it doesn't display electric field lines, electric charge elements are able to move around.
-			</div>
-		</div>
-
-		<div class="project-block">
-			<div class="project-heading">
 				<strong class="project-inner-heading"> 2D Electric Field Visualizer </strong> <i class="project-tech">JavaScript (HTML5 Canvas)</i>
 				<a href="https://github.com/kevinpanxc/ElectricFieldVectors" class="try-it-out">GitHub</a>
 				<a href="<?php echo $scriptsAndCSSPath ?>/projects/electric-field-vectors/" class="try-it-out">Try it Out!</a>
@@ -119,6 +107,18 @@
 				<a href="<?php echo $scriptsAndCSSPath ?>/images/Projects/electricFieldVectors/efv.png" rel="lightbox" id="electricFieldVectors">
 					<img src = "<?php echo $scriptsAndCSSPath ?>/images/Projects/electricFieldVectors/efv.png" id="screenshot1" /> 
 				</a>
+			</div>
+		</div>
+
+		<div class="project-block">
+			<div class="project-heading">
+				<strong class="project-inner-heading"> Ping </strong> <i class="project-tech">JavaScript (HTML5 Canvas)</i>
+				<a href="https://github.com/kevinpanxc/ping" class="try-it-out">GitHub</a>
+				<a href="<?php echo $scriptsAndCSSPath ?>/projects/ping/" class="try-it-out">Try it Out!</a>
+			</div>
+
+			<div class="proj-desc">
+				Ping is a more dynamic version of the 2D electric field visualizer project. Simulates the movement of point charges within an electric field.
 			</div>
 		</div>
 
