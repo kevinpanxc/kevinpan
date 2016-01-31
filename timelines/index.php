@@ -10,7 +10,7 @@
     var timeline_config = {
         width:              '100%',
         height:             '600',
-        source:             'palo_alto_2015.json',
+        source:             'san_francisco_2016.json',
         embed_id:           'timeline-embed',               //OPTIONAL USE A DIFFERENT DIV ID FOR EMBED
         start_at_end:       false,                          //OPTIONAL START AT LATEST DATE
         start_at_slide:     '0',                            //OPTIONAL START AT SPECIFIC SLIDE

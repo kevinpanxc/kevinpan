@@ -1,0 +1,377 @@
+
+{
+    "timeline":
+    {
+        "headline":"San Francisco Co-op Winter 2016",
+        "type":"default",
+        "text":"<p>Intern on the Video Ingest team at Twitch.tv</p>",
+        "asset": {
+            "media":"https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xaf1/v/t1.0-9/12400690_10153943760954359_7674367802493753192_n.jpg?oh=d700d7929888ce44ba177d719e48613e&oe=572909D0",
+            "credit":"Kevin Pan",
+            "caption":"By the Embarcardero"
+        },
+        "date": [
+            {
+                "startDate":"2016,1,9,16,00",
+                "endDate":"2016,1,9,18,00",
+                "headline":"Move in!",
+                "text":"<p>Landed at SFO, took a BART to the Embarcardero stop and reached The Gateway Apartments. New apartment looks beautiful.</p>",
+                "asset": {
+                    "media":"https://scontent.fsnc1-1.fna.fbcdn.net/hphotos-xpf1/v/t1.0-9/12400492_10153943184894359_6385283664588041459_n.jpg?oh=7731a14e245b9d0d2e3d890e42977f87&oe=57409EAA",
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,9,19,30",
+                "endDate":"2016,1,9,20,30",
+                "headline":"Met Michelle for dinner",
+                "text":"<p>Dinner at Ziggy's Burgers and then walked around a bit to find a place that sells tooth brushes. Nothing's open and the 7-11 doesn't sell them.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,10,07,50",
+                "endDate":"2016,1,10,09,50",
+                "headline":"First morning. Rooftop and Starbucks",
+                "text":"<p>Checked out the rooftop and went to Starbucks for breakfast.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,10,10,30",
+                "endDate":"2016,1,10,12,30",
+                "headline":"Bought my bike at Columbus Cyclery Go Bike It",
+                "text":"<p>Paid $500 for a used Raleigh Revenio 1.0 2015. All tires, frame, and handle bars. Looks awesome. Took it by the Embarcardero to get used to it.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,11,10,00",
+                "endDate":"2016,1,11,18,30",
+                "headline":"First day at work!",
+                "text":"<p>There were 10+ other new hires. We waited at the lobby on the 9th floor. Orientation happens and afterwards, met Jorge and he took me to where I was going to seat. Had lunch first before heading back to my desk. Yueshi wasn't here today. Time to start building my desktop...</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,12,19,15",
+                "endDate":"2016,1,12,20,15",
+                "headline":"Signed up for the gym!",
+                "text":"<p>Signed up at a 24 hour fitness 1 block south of my apartment.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,13,10,00",
+                "endDate":"2016,1,13,12,30",
+                "headline":"First time turning on the desktop...",
+                "text":"<p>Connected all the parts, time to turn on the desktop. There was a slight RAM compatibility issue but motherboard had a button to fix this. CPU light went on and off, indicating OK. Graphics card light went on and off, indicating OK. Boot device LED turns on and stays on and there's no video output on the monitor. Both motherboard and graphics card were not outputting video! WHAT DO I DO?!</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,13,15,00",
+                "endDate":"2016,1,13,16,30",
+                "headline":"Fix for no video output",
+                "text":"<p>Christopher Pollock, a network engineer sitting near me, came to help and was able to determine why there was no video. He reconnected the hard disks to different SATA ports and the motherboard video worked! OMG thanks Chris! Installed Windows 10 later.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,14,16,00",
+                "endDate":"2016,1,14,18,30",
+                "headline":"No video from graphics card fixed",
+                "text":"<p>Whenever connecting the graphics card to the board, no video came from both the board and the card. Solution was to disable graphics card video and then connect to the Internet. Windows automatically installed drivers for the graphics card. PHEW, the desktop is done! What a relief...</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,15,09,00",
+                "endDate":"2016,1,15,13,00",
+                "headline":"Last obstacle with desktop",
+                "text":"<p>The metallic cover for the ports was not installed on. To do so required moving the motherboard and the cooler pressure on the board made that really awkward. Was able to put the cover on but now the motherboard didn't fit in the desktop case. Chris came to the rescue again!</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,15,18,00",
+                "endDate":"2016,1,15,18,45",
+                "headline":"Board game night in the library",
+                "text":"<p>Moved to Friday because of an event on Thursday. Played Splendor but couldn't finish since I had to meet Vivian for dinner</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,15,19,15",
+                "endDate":"2016,1,15,22,00",
+                "headline":"Dinner with Vivian at Marlowe and Twitch tour",
+                "text":"<p>Met Vivian at Marlowe and had dinner. Then walked to Twitch, partly in the rain, and gave her a tour of the office. There was a huge Friday night poker game going on and Jorge was part of it.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,16,11,00",
+                "endDate":"2016,1,16,18,00",
+                "headline":"Waterloo BOT meetup in Dolores Park",
+                "text":"<p>Met Anojh at the apartment in the morning and we went to Chipotle for dinner. Took the MUNI to Dolores Park and met up with the BOT group. Met Michelle and her friend Mary. Also met Anastasia again. The bubble tea was pretty bad. Talked a bunch with different groups of people, such as those working at A9. Also talked with David Fan about the desktop. Went to the playground with Mary, Michelle, Anastasia, and Anojh. Afterwards went with a group of Anastasia's friends with the crew and stopped over at Taqueria Cancun. Next, we went to have ice cream at Bi-Rite Creamery. We departed with some of Anastasia's friends and Anastasia.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,16,18,00",
+                "endDate":"2016,1,16,23,59",
+                "headline":"Spyfall and bananagrams at my place",
+                "text":"<p>The crew + Taylor, Kevin, and Ansis decided to come to my place to chill. We played spyfall and bananagrams. I won the very last game... first time to actually complete a board in the whole set of games too. We decided to go out and grab some food. Most stores were closed. We settled on a Chinese store on Columbus, north of the apartment. It's called New Sun Hong Kong restaurant. Mary, Kevin, and Ansis left us there and it was me, Anojh, Michelle, and Taylor. Finished the food and went home. Anojh slept over.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,17,12,00",
+                "endDate":"2016,1,17,19,00",
+                "headline":"Went to Westfield Mall with Anojh",
+                "text":"<p>Anojh and I decided to go to Westfield Mall. Anojh wanted to buy some things and he was out of money. Met Michelle at the food court. Went to Uniqlo and then H&M to find some clothes for Anojh. Then we walked to Airbnb's office. It's soooo nice. Played ping pong for a bit and went home. Anojh went home afterwards.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,18,11,00",
+                "endDate":"2016,1,18,15,00",
+                "headline":"Walmart for T-Mobil plan",
+                "text":"<p>Took the BART to the San Leandro stop and biked to the Walmart. Bought the $30 T-Mobil plan's SIM card. Took the BART back and went to a T-Mobil store to get my phone's SIM card changed since I didn't have the pin. The woman who helped me complemented my bike :D</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,18,11,00",
+                "endDate":"2016,1,18,15,00",
+                "headline":"Walmart for T-Mobil plan",
+                "text":"<p>Took the BART to the San Leandro stop and biked to the Walmart. Bought the $30 T-Mobil plan's SIM card. Took the BART back and went to a T-Mobil store to get my phone's SIM card changed since I didn't have the pin. The woman who helped me complemented my bike :D</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,19,12,00",
+                "endDate":"2016,1,19,13,00",
+                "headline":"Board games lunch (Eight-Minute Empire)",
+                "text":"<p>Played with Douglas Soo, Patrick, and one other but I don't know his name. Didn't do so well, came in last place since I unknowingly spent a ton of money in the beginning of game auction to determine turn order.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,21,18,00",
+                "endDate":"2016,1,21,19,30",
+                "headline":"Board games night in the library (Alchemist)",
+                "text":"<p>Played Alchemist with Tarrant, Sharmeen, and Jacqui. A super complicated game and I came in last place but it was still fun. Kept getting negative potions and the traveler only wants to buy positive ones.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,22,23,30",
+                "endDate":"2016,1,22,23,50",
+                "headline":"ROTTEN ORANGE; ROTTEN TO THE CORE",
+                "text":"<p>The oranges I bought in the first couple of days, the last one in the bag was completely rotten. Rotten all the way through and way spewing green spores and was itself a bag of spores. Was terribly hard to clean it up and not breath in any of the spores. Needed to use a shirt over the face to fend off the airborne spores.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,22,23,30",
+                "endDate":"2016,1,22,23,50",
+                "headline":"ROTTEN ORANGE; ROTTEN TO THE CORE",
+                "text":"<p>The oranges I bought in the first couple of days, the last one in the bag was completely rotten. Rotten all the way through and way spewing green spores and was itself a bag of spores. Was terribly hard to clean it up and not breath in any of the spores. Needed to use a shirt over the face to fend off the airborne spores.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,23,10,00",
+                "endDate":"2016,1,23,13,00",
+                "headline":"Sausilito Bike Trip with Michelle - Part 1",
+                "text":"<p>Went to the office first thing to get some food. Went to the bike store to pump the bike and fix the gears. Met Michelle at Pier 39 at 11. Anojh was supposed to come but he decided not to in the last minute. Biked across the bridge, it was super windy and rainy. Everytime we turned onto one of those scenic stops on the bridge we get a huge blast of wind to our faces. Reached Sausilito at around 12:30 and had lunch at Caffe Tutti.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,23,13,00",
+                "endDate":"2016,1,23,15,25",
+                "headline":"Sausilito Bike Trip with Michelle - Part 2",
+                "text":"<p>Started the Paradise Loop bike trail after lunch. There was a rainbow! It was slightly rainy but not too unbearable. Stopped at Caffe Acri to go to the washroom... bought a banana just in case. Continued cycling north along Paradise Drive and there was a neighbourhood along the way where there were wild deer roaming the streets and apparently they are common in the neighbourhood.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,23,15,25",
+                "endDate":"2016,1,23,18,30",
+                "headline":"Sausilito Bike Trip with Michelle - Part 3",
+                "text":"<p>Continued along the bike trail and after the exiting Paradise Drive, we needed to make a decision on whether to take the more difficult and indirect route (but part of the Paradise Loop trail) to get back south. Decided to take a more direct route. Managed to catch the 5:35 pm ferry at Sausilito.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,23,19,30",
+                "endDate":"2016,1,23,23,30",
+                "headline":"Dinner and meeting Arti and her friend at Plentea",
+                "text":"<p>Split temporarily with Michelle after leaving the ferry to get cleaned up. Had dinner with Michelle and Anojh at E & O restaurant before going to Plentea and meeting Michelle's friends Arti and her friend. Anojh slept over.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,24,13,30",
+                "endDate":"2016,1,24,16,00",
+                "headline":"Lunch and walked by the Embarcardero with Anojh",
+                "text":"<p>Decided to walk by the Embarcardero and had lunch at American Eatery | Prather Ranch Meat Company at the Ferry Building. Walked down the Embarcardero with Anojh. There were a couple of massive cruise ships parked at the piers. Explored around the outside of the Exploratorium and we turned around at Pier 39. Saw some weird animal costume parade on the way back south. Anojh needed to meet up with his cousins so I just went home.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,24,19,30",
+                "endDate":"2016,1,24,22,00",
+                "headline":"Dinner with Anojh and Michelle at Maru Sushi",
+                "text":"<p>Wanted to go to Mikaku first but decided to go to a cheaper and better rated place. Anojh went home to Palo Alto afterwards.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,26,12,00",
+                "endDate":"2016,1,26,13,00",
+                "headline":"Board game lunch (Colt Express)",
+                "text":"<p>Colt Express with Sharmeen, Douglas, Elizabeth, Tim, and Waterloo Kevin's friend. My character was kind of overpowered with punchs since she stole an item from a character on punching instead of dropping the item. Came in second place.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,26,16,30",
+                "endDate":"2016,1,26,21,00",
+                "headline":"A9 visit",
+                "text":"<p>Went back to A9 to visit my old team. Most everyone was still there. It was a quiet afternoon. Had a long talk with Eli, he's always gracious. Learned that my old project is now a pretty high profile project being developed by both ADP and AAX. Had dinner with Hongyu at Steam and had a great talk.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,27,15,00",
+                "endDate":"2016,1,27,18,30",
+                "headline":"Ingest Team Beers",
+                "text":"<p>Jorge organized a beer event for the team. Went to a brewery called Liquid Gold and we had a bunch of beers and just talked. Got to know the team a lot better through this event.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,27,15,00",
+                "endDate":"2016,1,27,18,30",
+                "headline":"Ingest Team Beers",
+                "text":"<p>Jorge organized a beer event for the team. Went to a brewery called Liquid Gold and we had a bunch of beers and just talked. Got to know the team a lot better through this event.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,28,18,30",
+                "endDate":"2016,1,28,21,00",
+                "headline":"San Francisco Video Tech Meetup",
+                "text":"<p>Nick Chadwick helped me get into the video tech meetup ahead of the wait list. A guy from Youtube, Steven Robertson, gave a talk on inaccurate colour representation in video. Yueshi was there too. Met Larry Doyle from CBS since Yueshi was talking to him. He seemed to be really interested in me being his intern. Realized how much I need to work on my networking and socializing game.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,28,18,30",
+                "endDate":"2016,1,28,21,00",
+                "headline":"San Francisco Video Tech Meetup",
+                "text":"<p>Nick Chadwick helped me get into the video tech meetup ahead of the wait list. A guy from Youtube, Steven Robertson, gave a talk on inaccurate colour representation in video. Yueshi was there too. Met Larry Doyle from CBS since Yueshi was talking to him. He seemed to be really interested in me being his intern. Realized how much I need to work on my networking and socializing game.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,29,12,30",
+                "endDate":"2016,1,29,21,00",
+                "headline":"MIT Externs last day - Part 1",
+                "text":"<p>Lunch with the externs and played League with Sean afterwards. Haven't played in ages and we lost both games but it was fun.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,29,12,30",
+                "endDate":"2016,1,29,14,30",
+                "headline":"MIT Externs last day - Part 1",
+                "text":"<p>Lunch with Mark Fisher (video player engineer), Nick Chadwick, and another guy I don't know his name. Then talked with externs at their lunch table and played League with Sean afterwards. Haven't played in ages and we lost both games but it was fun.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,29,17,00",
+                "endDate":"2016,1,29,22,00",
+                "headline":"MIT Externs last day - Part 2",
+                "text":"<p>CK came to visit the office and Jacqui and CK met up with me. We showed CK around the office and Jacqui had to clean up some of her stuff. Had dinner, us three with Sean and Phillip. Sean, Jacqui, CK, and me had a talk with Kevin Kelly, a recent hire before Jacqui had to leave. Play a game of League with Sean, won it, and then played League with Sean, Brian Short, Jenny Qian (Business Operations manager), and Cathy Sun (Business Operations new hire). Left early and they continued playing.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,30,09,00",
+                "endDate":"2016,1,30,09,15",
+                "headline":"Exploring the roof further",
+                "text":"<p>Went to the other, off limits side of the roof of my apartment. Took some photos. That side has a better view...</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,30,10,00",
+                "endDate":"2016,1,30,11,30",
+                "headline":"South bay biking with Michelle and Anojh - Part 1",
+                "text":"<p>Rushed to the Caltrain and made it a minute before it left. Ended up in the same car as Michelle. Michelle got a bagle at New York New York Sandwiches and we went to Walgreens so that Michelle can get snacks. Anojh met us at 11:50 and we were on our way. Couldn't get across the Bayshore Freeway in the normal way (through the underpass since it's blocked) so we had to swing around and get back across through the Oregon Expressway.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,30,11,30",
+                "endDate":"2016,1,30,17,30",
+                "headline":"South bay biking with Michelle and Anojh - Part 2",
+                "text":"<p>Biked across the Bay Trail but the land bridge on the north end of the Stevens Creek trail. Had to bike south and decided to just go to Castro Steet and had Asian Box for lunch. Biked back north to try to reenter the Bay Trail via Moffett but roads were closed... Decided to just bike back to Palo Alto downtown through the Bay Trail - Bayshore Freeway - University Avenue.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            },
+            {
+                "startDate":"2016,1,30,17,30",
+                "endDate":"2016,1,30,10,30",
+                "headline":"South bay biking with Michelle and Anojh - Part 3",
+                "text":"<p>Visited Anojh's place first, relaxed and talked a bit in his living room. Went downtown and left our bikes at his office building. Checked out his work desk. We left for dinner afterwards. Chose Local Union 271. Michelle went to T4 after dinner and we left for San Francisco afterwards. Took the 9:31 Caltrain.</p>",
+                "asset": {
+                    "thumbnail":"../images/sunny.png"
+                }
+            }
+        ]
+    }
+}
