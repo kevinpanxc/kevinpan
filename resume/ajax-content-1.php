@@ -10,8 +10,32 @@
             <h1>Professional Experience</h1>
             <div class="info-box">
                 <div class="left-box">
+                    <h2>Twitch.tv<span class="job-title">, Software Engineer<span></br></h2>
+                    <div class="info-box-tech-summary" style="margin-bottom: 5px">Python, FFMPEG, x264, Intel Quick Sync Video, Nvidia NVENC</div>
+                    <div class="info-box-tech-summary" style="margin-bottom: 5px">H.264 video, PSNR, MS-SSIM, BDPSNR</div>
+                    <div class="info-box-date">January - April, 2016</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>Video quality analysis project evaluating x264, Intel Quick Sync Video and Nvidia NVENC:</li>
+                        <ul>
+                            <li>Worked with engineers from Intel and Nvidia to setup Intel Quick Sync Video and Nvidia NVENC</li>
+                            <li>Worked with engineers from Elemental, Lab 126, and Amazon UK in setting up a video quality analysis workflow</li>
+                            <li>Prepared internal and external video quality reports</li>
+                        </ul>
+                        <li>Investigated low bitrate VR streaming:</li>
+                        <ul>
+                            <li>Co-inventor of patent application that describes theoretical methodology to stream VR video at bitrates as low as 5 Mbps</li>
+                            <li>Setup an end-to-end VR streaming demo over Twitch.tv's network using VideoStitch Vahana VR and Samsung GearVR</li>
+                        </ul>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
                     <h2>A9.com<span class="job-title">, Software Engineer<span></br><span class="job-title">Advertising Technology</span></h2>
-                    <div class="info-box-tech-summary">Java, jOOQ, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl, Git</div>
+                    <div class="info-box-tech-summary">Java, jOOQ, Apache Ant, AWS Kinesis, AWS DynamoDB, AWS SQS, AWS RDS MySQL, Node.js, Perl</div>
                     <div class="info-box-date">May - August, 2015</div>
                 </div>
                 <div class="right-box">
@@ -30,7 +54,7 @@
             <div class="info-box">
                 <div class="left-box">
                     <h2>A Thinking Ape<span class="job-title">, Software Engineer<span></h2>
-                    <div class="info-box-tech-summary">Django, iOS, Android, MySQL, Git</div>
+                    <div class="info-box-tech-summary">Django, iOS, Android, MySQL</div>
                     <div class="info-box-date">September - December, 2014</div>
                 </div>
                 <div class="right-box">
@@ -45,7 +69,7 @@
             <div class="info-box">
                 <div class="left-box">
                     <h2>Pivotal Labs<span class="job-title">, Agile Software Developer</span></h2>
-                    <div class="info-box-tech-summary">Ruby on Rails, Android, JavaScript, Git</div>
+                    <div class="info-box-tech-summary">Ruby on Rails, Android, JavaScript</div>
                     <div class="info-box-date">January - April, 2014</div>
                 </div>
                 <div class="right-box">
@@ -59,7 +83,7 @@
             <div class="info-box info-box-last">
                 <div class="left-box">
                     <h2>Canadian Medical Protective Association<span class="job-title">, Web Developer</span></h2>
-                    <div class="info-box-tech-summary">JSP, JSF, Selenium with JUnit, SVN</div>
+                    <div class="info-box-tech-summary">JSP, JSF, Selenium with JUnit</div>
                     <div class="info-box-date">May - August, 2013</div>
                 </div>
                 <div class="right-box">
@@ -81,8 +105,8 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Website that aggregates and displays funny quotes from Twitch.tv's IRC channels</li>
-                        <li>147,000+ monthly pageviews and 28,000+ monthly unique users</li>
+                        <li>Website that aggregates and displays amusing quotes from Twitch.tv's IRC channels</li>
+                        <li>227,000+ monthly pageviews and 48,000+ monthly unique users</li>
                         <li>Developed a strong understanding of Search Engine Optimization (SEO) through building and growing this website</li>
                     </ul>
                 </div>
@@ -124,7 +148,7 @@
                 </div>
                 <div class="right-box">
                     <ul>
-                        <li>Dean's Honours List (Terms 1B, 2A, and 3A)</li>
+                        <li>Dean's Honours List (Terms 1B, 2A, 3A, and 3B)</li>
                         <li>Class Academic Representative (April 2014 - Present)</li>
                         <li>President's Scholarship (June 2012)</li>
                     </ul>
