@@ -16,9 +16,9 @@
                 <div class="right-box">
                     <ul>
                         <li>First product management intern at Twitch. Product manager for Clips</li>
+                        <li>Started and led an initiative that resulted in a triple-digit increase in referrals to clips of two of our most popular games.</li>
                         <li>Product lead for an API and a mobile product. Drove end-to-end product requirements gathering and spec'ing. Cross-team coordination, worked closely with engineering, design, UX research, and marketing</li> 
-                        <li>Led efforts to improve social sharing and subsequently saw multifold increases in referrals to Clips from two of the most popular games on Clips</li>
-                        <li>Ran product email marketing testing to baseline email marketing effectiveness</li>
+                        <li>Ran product email marketing testing to hundreds of thousands of users to baseline email marketing effectiveness</li>
                         <li>Led efforts to improve quality of service and internationalization. Identified issues and drove resolutions for them</li>
                         <li>Conducted detailed data analyses using SQL and used insights for business and product planning</li>
                     </ul>
