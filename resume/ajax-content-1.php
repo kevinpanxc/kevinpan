@@ -10,7 +10,24 @@
             <h1>Professional Experience</h1>
             <div class="info-box">
                 <div class="left-box">
-                    <h2>Twitch.tv<span class="job-title">, Software Engineer<span></br></h2>
+                    <h2>Twitch<span class="job-title">, Product Manager<span></br></h2>
+                    <div class="info-box-date">September - December, 2016</div>
+                </div>
+                <div class="right-box">
+                    <ul>
+                        <li>First product management intern at Twitch. Product manager for Clips</li>
+                        <li>Product lead for an API and a mobile product. Drove end-to-end product requirements gathering and spec'ing. Cross-team coordination, worked closely with engineering, design, UX research, and marketing</li> 
+                        <li>Led efforts to improve social sharing and subsequently saw multifold increases in referrals to Clips from two of the most popular games on Clips</li>
+                        <li>Ran product email marketing testing to baseline email marketing effectiveness</li>
+                        <li>Led efforts to improve quality of service and internationalization. Identified issues and drove resolutions for them</li>
+                        <li>Conducted detailed data analyses using SQL and used insights for business and product planning</li>
+                    </ul>
+                </div>
+                <div class="clear-both"></div>
+            </div>
+            <div class="info-box">
+                <div class="left-box">
+                    <h2>Twitch<span class="job-title">, Software Engineer<span></br></h2>
                     <div class="info-box-tech-summary" style="margin-bottom: 5px">Python, FFMPEG, x264, Intel Quick Sync Video, Nvidia NVENC</div>
                     <div class="info-box-tech-summary" style="margin-bottom: 5px">H.264 video, PSNR, MS-SSIM, BDPSNR</div>
                     <div class="info-box-date">January - April, 2016</div>
