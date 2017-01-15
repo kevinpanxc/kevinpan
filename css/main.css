@@ -320,14 +320,13 @@ body {
 
 section {
     margin-bottom: 12px;
-    background-color: #f8f8f8;
-    padding: 0 8px;
 }
 
 section h1 {
     color: #9a9a9a;
     margin: 0 0 8px 0;
-    border-bottom: 1px solid #dadada;
+    background-color: #f8f8f8;
+    padding: 0 8px;
 }
 
 section h2 {
@@ -364,6 +363,7 @@ section h2 {
 }
 
 .info-box {
+    padding: 0 8px;
     margin-bottom: 12px;
 }
 
